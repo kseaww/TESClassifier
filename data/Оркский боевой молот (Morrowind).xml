@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9E%D1%80%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Оркский боевой молот (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Двуручное оружие]]></item>
+    <item type="str"><![CDATA[Двуручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Молоты]]></item>
+    <item type="str"><![CDATA[Молоты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Оркский боевой молот (ориг. Orcish Warhammer) — молот, дробящее оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Оркский молот — двуручное дробящее оружие, созданное орками.
+Характеристики
+Объём зачарования: 6,6
+Длина: 1,50
+Скорость атаки: 1,0
+Местонахождение]]></text>
+</doc>

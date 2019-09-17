@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%BF%D1%83%D0%B4%D0%B0%D0%BA%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Попудакс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Гильдия магов]]></item>
+    <item type="str"><![CDATA[Гильдия магов (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Маги]]></item>
+    <item type="str"><![CDATA[Маги (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Мужчины (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Бретоны (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Бретоны]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Попудакс (ориг. Popudax) — персонаж в игре The Elder Scrolls II: Daggerfall.
+Биография
+Попудакс занял место придворного чародея при дворе Даггерфолла в 3Э 403, сразу после смерти короля Лизандуса и изгнания Медоры Диренни, ранее занимавшей эту должность. Благодаря своему положению при дворе является одним из советников короля Готрида. Он также является членом Гильдии магов.]]></text>
+</doc>

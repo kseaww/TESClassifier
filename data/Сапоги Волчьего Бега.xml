@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%BF%D0%BE%D0%B3%D0%B8_%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D0%B5%D0%B3%D0%BE_%D0%91%D0%B5%D0%B3%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сапоги Волчьего Бега]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Bloodmoon]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Доспехи]]></item>
+    <item type="str"><![CDATA[Доспехи (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Легкая броня]]></item>
+    <item type="str"><![CDATA[Легкая броня (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Обувь]]></item>
+    <item type="str"><![CDATA[Обувь (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Bloodmoon)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сапоги Волчьего Бега (ориг. Paws of the Wolf-Runner) — сапоги, артефакт, легкие доспехи в игре The Elder Scrolls III: Bloodmoon.
+Описание
+Эти уникальные сапоги из волчьих шкур носит Скйолдр Волчий Бег — вождь Медового зала Тирск. При нападении Удурфрукта Скйолдр погибнет, и герой сможет оставить их себе.
+Характеристики
+Зачарованы на постоянный эффект:
+Увеличить характеристику: Скорость 10 ед.
+Увеличить навык: Атлетика 10 ед.
+Примечание
+Если не забрать сапоги с тела Скйолдра сразу при посещении разрушенного Тирска, в дальнейшем их без консольной команды (Player-> additem "wolfwalkers" 1) получить не удастся. Тирск на некоторое время закроют на ремонт, а все следы разрухи и тела убитых, конечно же, исчезнут.]]></text>
+</doc>

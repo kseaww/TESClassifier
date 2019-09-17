@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Открыть (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Открыть (ориг. Open) — магический эффект в игре The Elder Scrolls III: Morrowind.
+Описание
+Этот эффект открывает запертый контейнер или дверь. Мощность эффекта равняется наибольшему уровню замка, который можно открыть эффектом.
+Источники эффекта
+Заклинания
+Свитки
+Свиток Отпирания Ондузи.
+Свиток Разбивателя Замков Екаша.
+Связанные эффекты
+Запереть.
+Телекинез.]]></text>
+</doc>

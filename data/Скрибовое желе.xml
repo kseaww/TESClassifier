@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%B1%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B5]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Скрибовое желе]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Алхимия]]></item>
+    <item type="str"><![CDATA[Алхимия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Ингредиенты]]></item>
+    <item type="str"><![CDATA[Ингредиенты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Алхимический ингредиент, который можно собрать с мёртвых скрибов (шанс сбора составляет 60 %). Встречается в продаже у торговцев и алхимиков, может быть найден при обыске различных контейнеров, как и другие ингредиенты.
+Скрибовое желе выгодно отличается тем, что не имеет вредных и нежелательных эффектов. Также это один из двух ингредиентов (второй — соли пепла), обладающий свойством исцеления моровых болезней.
+Квесты
+«Найти скрибовое желе» — для выполнения этого задания Имперского культа необходимо достать пять порций скрибового желе для Синнолиана Туннифуса.]]></text>
+</doc>

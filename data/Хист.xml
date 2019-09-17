@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A5%D0%B8%D1%81%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хист]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Расы]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[Растения]]></item>
+    <item type="str"><![CDATA[Растения (Oblivion)]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Online]]></item>
+    <item type="str"><![CDATA[Растения (Online)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ум-Хист (ориг. Um-Hist) — один из видов живых деревьев, связанные с Хистами Тамриэля. Эта раса была замечена в Полях сожалений, плане Клавикуса Вайла, однако нет данных о том, как она туда попала. В начале Четвёртой эры Ум-Хисты, обитавшие в плане Вайла, были отделены от основного плана Умброй, став неотъемлемой частью жизненного цикла на плавучем острове Умбриэль.
+Ум-Хист были ответственны за производство многих веществ, используемых в кухнях Умбриэля. Деревья были взаимосвязаны и играли важную роль в переработке души на Умбриэле, в каком-то смысле они были Умбриэлем. Они жили на внешней области, по краям поверхности острова, хотя их корневая система расширена в подземные уровни. После разрушения Умбриэля Ум-Хисты телепортировали остров в своё таинственное царство.]]></text>
+</doc>

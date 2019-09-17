@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%81%D0%B0%D0%BA_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%A4%D0%B5%D0%BB%D0%BC%D1%81%D0%B0_(%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Тесак святого Фелмса (предмет)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Топоры]]></item>
+    <item type="str"><![CDATA[Топоры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты Храма Трибунала]]></item>
+    <item type="str"><![CDATA[Квестовые предметы]]></item>
+    <item type="str"><![CDATA[Квестовые предметы (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Тесак святого Фелмса (ориг. Cleaver of St. Felms) — топор, артефакт, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Тесак святого Фелмса — артефакт Храма Трибунала, топор, некогда принадлежавщий одному из святых — святому Фелмсу. Последним его владельцем был Мендел Эвес - Вечный Страж, погибший в недрах крепости Турейнулал, сражаясь с монстрами Шестого Дома.
+Уву Лларен, служительница из Призрачных Врат, попросит главного героя найти и вернуть этот артефакт Храму. Реликвия так и осталась лежать на теле павшего Стража в Турейнулале, в локации «Пузырь Кловиса». Если вам приглянулся этот топор, не расстраивайтесь — когда вы достигните сана Патриарха, Уву отдаст вам артефакт обратно.
+Чары
+Эффект при ударе, на себя:
+Перышко 20 п.
+Уменьшение магии 15 п.
+Заряд / расход = / 4 = 10 ударов.]]></text>
+</doc>

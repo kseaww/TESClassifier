@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Торговля (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Навыки (Oblivion)]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Торговля (ориг. Mercantile) — один из навыков Вора в игре The Elder Scrolls IV: Oblivion.
+Навык позволяет проводить более выгодные сделки при купле/продаже.
+Управляющий атрибут: Обаяние
+Уровни развития
+Учителя
+Учебники]]></text>
+</doc>

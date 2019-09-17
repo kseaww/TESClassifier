@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B0%D0%B3%D0%B3%D0%B5%D1%80%D1%84%D0%BE%D0%BB%D0%BB]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Даггерфолл]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Многозначные термины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Даггерфолл (Lore) — cтатья о городе во вселенной The Elder Scrolls
+Даггерфолл (Online) — cтатья о городе, представленном в The Elder Scrolls Online, в период Междуцарствия
+Даггерфолл (Arena) — cтатья о городе, представленном в The Elder Scrolls: Arena, в период Имперского Симулякра
+Даггерфолл (Daggerfall) — cтатья о городе, представленном в The Elder Scrolls II: Daggerfall, накануне Деформации Запада]]></text>
+</doc>

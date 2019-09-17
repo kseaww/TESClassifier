@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%AD%D0%BB%D0%B5%D0%B8%D0%B4%D0%BE%D0%BD%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Символ Элеидона]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Доспехи]]></item>
+    <item type="str"><![CDATA[Доспехи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Тяжелая броня]]></item>
+    <item type="str"><![CDATA[Тяжелая броня (Morrowind)]]></item>
+    <item type="str"><![CDATA[Щиты]]></item>
+    <item type="str"><![CDATA[Щиты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Символ Элеидона (ориг. Eleidon's Ward) — щит, артефакт, тяжелые доспехи в игре The Elder Scrolls III: Morrowind.
+ОписаниеПравить
+Символ Элеидона — щит героя. Элеидон — святой рыцарь, легенда истории бретонов. Он постоянно боролся со злом и пытался исправить его. Согласно легенде, он спас дочь одного барона от верной смерти в руках злого вождя. В награду барон потратил чуть ли не всё своё богатство, чтобы создать магический щит специально для Элеидона. Этот щит позволял ему быстро исцелять свои раны.
+Это активируемый предмет. Чары: Восстановить здоровье 50-100п, на себя, при использовании.
+МестонахождениеПравить
+Можно найти в дальнем склепе захоронения Ибар-Дад. Щит висит на стене, над скелетом.]]></text>
+</doc>

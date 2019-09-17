@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8_(%D0%BA%D0%B2%D0%B5%D1%81%D1%82)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Клинки (квест)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Главный квест (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Daggerfall)
+Клинки (ориг. Stronghold of the Blades) — квест главной сюжетной линии в игре The Elder Scrolls II: Daggerfall.
+Описание
+Протагонист получит письмо от одного из агентов Подземного Короля с просьбой о встрече не позднее, чем через 30 дней после получения. Встреча произойдёт в таверне одного из городов Сентинеля.
+Король Червей поместил некий «проклятый предмет» в замок Клинков (Замок Ллугвич в провинции Якалон). Подземный Король хочет, чтобы главный герой забрал этот предмет.
+Прохождение
+После того, как искомый предмет будет добыт, агент Подземного Короля снимет с него проклятие и подарит герою в качестве награды (случайный магический предмет). Также он укажет на карте местоположение склепа Лизандуса. Если это место уже стало известно протагонисту (в процессе выполнения второго квеста Элизаны), то этот квест можно не выполнять.]]></text>
+</doc>

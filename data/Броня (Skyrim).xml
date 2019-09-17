@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%8F_(Skyrim)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Броня (Skyrim)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Многозначные термины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Перечень лёгкой брони
+Перечень тяжёлой брони
+Перечень щитов]]></text>
+</doc>

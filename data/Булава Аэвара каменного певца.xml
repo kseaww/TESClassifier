@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D1%83%D0%BB%D0%B0%D0%B2%D0%B0_%D0%90%D1%8D%D0%B2%D0%B0%D1%80%D0%B0_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B5%D0%B2%D1%86%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Булава Аэвара каменного певца]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Дробящее оружие]]></item>
+    <item type="str"><![CDATA[Дробящее оружие (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Bloodmoon]]></item>
+    <item type="str"><![CDATA[Предметы (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Оружие (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Булавы]]></item>
+    <item type="str"><![CDATA[Булавы (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Bloodmoon)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Булава Аэвара Каменного Певца (ориг. Mace of Aevar Stone-Singer) — булава, артефакт, дробящее оружие в игре The Elder Scrolls III: Bloodmoon.
+Описание
+Булава Аэвара Каменного Певца — оружие, принадлежавшее герою нордского племени скаалов, обитающих на острове Солстхейм. Согласно легенде, Аэвар вернул скаалам шесть даров Всесоздателя, которые похитил у них Жадина. Эта очень мощная и прочная булава сделана из священного материала — сталгрима — и способна наносить повреждения холодом. Однако для одноручного оружия она обладает поистине огромным весом.
+Местоположение
+Нереварин получает эту булаву из рук вождя скаалов — Тарстена Клыка Сердца, после исполнения Ритуала Даров и завоевания доверия их общины.
+Характеристики
+Дробящее оружие, одноручное
+Рубящий удар: 30–90
+Режущий удар: 30–90
+Колющий удар: 10–10
+Заряд / расход энергии = 20 / 2 = 10 ударов.]]></text>
+</doc>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D1%80%D0%BE%D0%B1%D1%8F%D1%89%D0%B5%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дробящее оружие (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дробящее оружие (ориг. Blunt) — один из навыков Воина в The Elder Scrolls IV: Oblivion.
+Управляющий атрибут — Сила.
+Навык позволяет эффективно использовать дробящее оружие — молоты, секиры и булавы.
+Урон
+Если вы используете оружия типа дробящее оружие, то урон равен:
+Урон = Базовой Урон Оружия * 0.5 * (0.75 + Сила * 0.005) * (0.2 + Навык * 0.015)
+Уровни развития
+Учителя навыка
+Учебники]]></text>
+</doc>

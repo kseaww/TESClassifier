@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B0%D1%8D%D0%B4%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B0_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Даэдрические святилища (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Oblivion)]]></item>
+    <item type="str"><![CDATA[Храмы Даэдра]]></item>
+    <item type="str"><![CDATA[Храмы Даэдра (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Святилища Даэдрических Принцев (ориг. Daedric Shrines) разбросаны по всему Сиродилу и являются средством связи даэдра с планом смертных. Они предлагают смертным, желающим заслужить их благоволение, разнообразные задания, но большинство из этих заданий требуют выполнения особых условий и подношения даров. Как правило, у статуй можно найти нескольких даэдропоклонников, которые могут дать более подробную информацию о подношении. В качестве вознаграждения каждый Принц предлагает свой легендарный артефакт.
+Перечень святилищ
+
+Обратите внимание на то, что у Мерунеса Дагона также есть храм, но он расположен под землёй и является частью основной линии квестов. Артефакт Дагона можно получить после установки официального дополнения Mehrunes' Razor.]]></text>
+</doc>

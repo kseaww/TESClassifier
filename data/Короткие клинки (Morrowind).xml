@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Короткие клинки (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Короткие Клинки (ориг. Short Blade) — один из навыков специализации бродяги в игре The Elder Scrolls III: Morrowind. Навык зависит от уровня скорости персонажа.
+Персонажи, обладающие хорошим навыком владения короткими клинками, весьма опасны с коротким, быстрым колющим оружием вроде кинжалов, танто, коротких мечей или вакидзаси.
+Прокачка навыка
+Успешная атака: +0.75
+Бонусы при создании
+Расы
++10 Данмер
++5 Хаджит
++5 Редгард
+Классы
+Ассасин
+Вор
+Жулик
+Меч Ночи
+Шпион
+Маг
+Пилигрим
+Чародей
+Фракции
+Гильдия Воров
+Дом Хлаалу
+Клан Берне
+Мораг Тонг
+Учителя навыка
+Учебники
+2920, Вечер Заката
+2920, Вечер Вечерней Звезды
+36 Уроков Вивека, Проповедь 10
+36 Уроков Вивека, Проповедь 30
+Безымянная Книга]]></text>
+</doc>

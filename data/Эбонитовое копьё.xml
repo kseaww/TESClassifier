@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%AD%D0%B1%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BF%D1%8C%D1%91]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эбонитовое копьё]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Древковое оружие]]></item>
+    <item type="str"><![CDATA[Древковое оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Копья]]></item>
+    <item type="str"><![CDATA[Копья (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эбонитовое копьё (ориг. Ebony Spear) — копьё, древковое оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Эбонитовое копьё — колющее древковое оружие, созданное из редкой породы вулканического стекла, эбонита, и украшенное позолотой в нескольких местах.
+Формы изделия соответствуют таковым у классического протазана.
+Характеристики
+Скорость атаки: 1,00
+Длина: 1,80
+Объём зачарования: 10
+Местонахождение
+Альд Даэдрот, Передняя — Джи Ти.
+Забытые своды Ануднабии, Кузница Хильбонгарда — среди сокровищ, охраняемых огненным атронахом.
+Плантация Дрена, Вилла Дрена — Орвас Дрен.
+Когорун, Зал Бдительного Прикосновения — на столе рядом с Дагот Балером.
+Золотой святой — возможное оружие.]]></text>
+</doc>

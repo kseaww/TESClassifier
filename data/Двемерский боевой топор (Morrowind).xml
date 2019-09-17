@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B2%D0%B5%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D1%82%D0%BE%D0%BF%D0%BE%D1%80_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Двемерский боевой топор (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Топоры]]></item>
+    <item type="str"><![CDATA[Топоры (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гномский боевой топор (ориг. Dwarven War Axe) — топор, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Гномский боевой топор — одноручное оружие, созданное из металла, секрет изготовления которого утерян. Имеет тускло-жёлтый цвет (ранее золотой).
+Характеристики
+Скорость атаки: 1,25
+Длина: 1,00
+Объём зачарования: 5
+Местонахождение
+Одросал.
+Призрачные Врата.
+Корпрусариум, шкаф рядом с Ягрумом.]]></text>
+</doc>

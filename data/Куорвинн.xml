@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D1%83%D0%BE%D1%80%D0%B2%D0%B8%D0%BD%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Куорвинн]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Учителя навыков]]></item>
+    <item type="str"><![CDATA[Учителя навыков (Morrowind)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Альтмеры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Альтмеры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Куорвинн (ориг. Qorwynn) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Куорвинн — альтмер-маг, поселившийся в кимерской крепости Индоранион вместе со своим учеником по имени Эрундил.
+Куорвинн является агрессивным персонажем и сразу нападёт при вашем появлении. С ним можно поговорить, временно остудив его заклятием «успокоения гуманоида» или приблизившись под чарами «невидимости» / «хамелеона».
+Этот альтмер может зачаровать для вас предмет и оказать услуги тренера навыков Зачарования (мастер-тренер, до уровня 100), Разрушения (до 78) и Изменения (до 72).]]></text>
+</doc>

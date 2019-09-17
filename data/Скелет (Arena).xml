@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D0%B5%D1%82_(Arena)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Скелет (Arena)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Существа]]></item>
+    <item type="str"><![CDATA[Существа (Arena)]]></item>
+    <item type="str"><![CDATA[Нежить]]></item>
+    <item type="str"><![CDATA[Нежить (Arena)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Скелет (ориг. Skeleton) — нежить в игре The Elder Scrolls: Arena.
+Описание
+Скелеты — типичные представители нежити. Они обычно охраняют определённые места, такие как, например, склепы. Скелеты являются стойкими к атакам клинковым оружием. Слабые поодиночке, могут представлять опасность для героя на низких уровнях, если атакуют в группе. За убийство каждого скелета можно получить 880 очков опыта.
+Характеристики]]></text>
+</doc>

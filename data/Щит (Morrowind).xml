@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A9%D0%B8%D1%82_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Щит (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Заклинания]]></item>
+    <item type="str"><![CDATA[Изменение (Morrowind)]]></item>
+    <item type="str"><![CDATA[Заклинания (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Щит (ориг. Shield) — магический эффект в игре The Elder Scrolls III: Morrowind.
+Описание
+Создаёт магический щит вокруг всего тела субъекта. Этот эффект прибавляет свою мощность к показателю защиты персонажа
+Источники
+Заклинания
+
+
+Свитки
+Зелья
+Алхимических ингредиентов с подобным эффектом нет, но в игре можно найти зелье героизма, одним из эффектов которого является улучшенный «Щит».
+Связанные эффекты
+Ледяной щит
+Огненный щит
+Щит молний
+Светоч]]></text>
+</doc>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/Creation_Kit]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Creation Kit]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Skyrim]]></item>
+    <item type="str"><![CDATA[Программы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Creation Kit (основана на редакторе TES IV: Oblivion — Construction Set) — редактор файлов игры только для PC версии The Elder Scrolls V: Skyrim выпущенная 7 февраля 2012 года вместе с дополнением High Resolution Texture Pack. Для установки необходима лицензионная копия Skyrim на Steam аккаунте.
+Данный редактор бесплатен и его установка производится следующим путем:
+В программе Steam: Библиотека > Инструменты > Skyrim Creation Kit
+При помощи этой программы можно контролировать любые аспекты игры: создание модификаций, персонажей, объектов, вплоть до переделывания игрового процесса и ретекстурирования. Также сюда включён Steam Workshop который позволяет выкладывать, оценивать и загружать модификации в сообщество.
+Создание модификаций
+Bethesda сделала вики вместе с подробным описанием модостроения, были созданы видео инструкции:]]></text>
+</doc>

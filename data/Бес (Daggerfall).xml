@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D0%B5%D1%81_(Daggerfall)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бес (Daggerfall)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Существа]]></item>
+    <item type="str"><![CDATA[Существа (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Монстры]]></item>
+    <item type="str"><![CDATA[Монстры (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бес (ориг. Imp) — монстр в игре The Elder Scrolls II: Daggerfall.
+Описание
+Бес — небольшое зелёное крылатое существо, которое способно к полету и имеет 100 % устойчивость к атакам железным оружием. Они водятся в подземельях и пещерах, но также могут быть встречены в дикой местности и около мелких поселений. После убийства беса можно получить некоторые вещи: чаще всего это будут ингредиенты или золото, реже всего — оружие.
+Характеристики]]></text>
+</doc>

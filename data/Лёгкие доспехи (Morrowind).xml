@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D1%91%D0%B3%D0%BA%D0%B8%D0%B5_%D0%B4%D0%BE%D1%81%D0%BF%D0%B5%D1%85%D0%B8_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лёгкие доспехи (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Навыки (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лёгкие доспехи (ориг. Light Armor) — один из навыков группы бродяги в The Elder Scrolls III: Morrowind. Навык зависит от атрибута ловкости.
+Навык «Лёгкие доспехи» позволяет передвигаться и защищаться в лёгких, гибких доспехах, таких как кожаные, из шкуры, меха, хитина и стекла. Чтобы с пользой применять любой тип доспехов, нужно быть привычным к нему и иметь соответствующие навыки и умения.
+Прокачка навыка
+Удар оппонентом (когда герой в лёгких доспехах): +1.00.
+Бонусы при создании
+Расы
++10 Босмер;
++5 Данмер;
++5 Имперец;
++5 Хаджит.
+Классы
+Фракции
+Учителя навыка
+Книги повышающие навык
+«Арьергард»;
+«Лёд и Хитон»;
+«Последний танец Джорнибрета»;
+«36 Уроков Вивека, Проповедь 21»;
+«36 Уроков Вивека, Проповедь 26».
+Описание
+Виды лёгких доспехов]]></text>
+</doc>

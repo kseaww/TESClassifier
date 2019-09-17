@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B9_%D1%82%D0%BE%D0%BF%D0%BE%D1%80_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Серебряный топор (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Топоры]]></item>
+    <item type="str"><![CDATA[Топоры (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Серебряный топор (ориг. Silver War Axe) — топор, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Серебряный топор — одноручное оружие со стальным сердечником и серебряным покрытием.
+Характеристики
+Объём зачарования: 4
+Длина: 1,00
+Скорость атаки: 1,25
+Местонахождение
+Родовая гробница Веласов;
+Нчурдамц;
+Маар Ган, Аванпост;
+Гнисис, торговый комплекс неподалёку от храма;
+Балмора, Восемь Тарелок — носит Травен Марвос.]]></text>
+</doc>

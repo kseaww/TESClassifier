@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B0%D0%BD_%D0%93%D0%B0%D1%80%D0%BB%D1%83%D1%84%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Клан Гарлуфи]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Кланы вампиров]]></item>
+    <item type="str"><![CDATA[Кланы вампиров залива Илиак]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Клан Гарлуфи — один из родов вампиров в районе залива Илиак. Представители рода наделены способностью с помощью магии ограждать себя от повреждений. Гарлуфи доминируют в регионах Нортмур и Фригия в Хай Роке. Они являются врагами родов Селену и Лизрези.]]></text>
+</doc>

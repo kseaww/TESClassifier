@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A2%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B5_%D0%B4%D0%BE%D1%81%D0%BF%D0%B5%D1%85%D0%B8_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Тяжёлые доспехи (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Oblivion)]]></item>
+    <item type="str"><![CDATA[Тяжелая броня (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Тяжёлые доспехи (ориг. Heavy Armor) — один из навыков Воина в игре The Elder Scrolls IV: Oblivion.
+Главный атрибут — Выносливость.
+Навык отвечает за эффективное использование тяжёлой брони. От развития навыка зависит уровень защиты следующих типов доспехов:
+Железный доспех;
+Стальной доспех;
+Двемерский доспех;
+Орочий доспех;
+Эбонитовый доспех;
+Даэдрический доспех.
+Уровни развития
+Учителя
+Учебники]]></text>
+</doc>

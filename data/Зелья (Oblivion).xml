@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%97%D0%B5%D0%BB%D1%8C%D1%8F_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Зелья (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Shivering Isles]]></item>
+    <item type="str"><![CDATA[Wizard's Tower]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Oblivion)]]></item>
+    <item type="str"><![CDATA[Предметы (Shivering Isles)]]></item>
+    <item type="str"><![CDATA[Предметы (Wizard's Tower)]]></item>
+    <item type="str"><![CDATA[Зелья]]></item>
+    <item type="str"><![CDATA[Зелья (Oblivion)]]></item>
+    <item type="str"><![CDATA[Зелья (Shivering Isles)]]></item>
+    <item type="str"><![CDATA[Зелья (Wizard's Tower)]]></item>
+    <item type="str"><![CDATA[Mehrunes' Razor]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Зелья
+Эликсир исследования
+Зелье защиты от холода
+Экстракт Трихобезоара (Mehrunes' Razor)
+Яды
+Скипидар
+Напитки
+Вино братьев Сурили
+Вино Братьев Сурили 415 года
+Вино Братьев Сурили 399 года
+Вино Западного вельда Тамики
+Вино Тамики 415 года
+Вино Тамики 399 года
+Вино изгнания теней
+Дешевое вино
+Даэдрический лавовый виски (Wizard's Tower)
+Мед
+Мед Розеторна
+Особое варево Ньюхейма
+Пиво
+Эль]]></text>
+</doc>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%BA%D0%B8%D1%80%D0%B0_%D0%BD%D0%BE%D1%80%D0%B4%D0%BE%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Секира нордов]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Топоры]]></item>
+    <item type="str"><![CDATA[Топоры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Секира нордов (ориг. Nordic Battle Axe) — топор, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Секира нордов — дробящее двуручное оружие, созданное из скайримской стали и украшенное нордскими узорами.
+Характеристики
+Объём зачарования: 55
+Длина: 1,00
+Скорость атаки: 1,00
+Местонахождение
+Фаленсарано — Владеет Альфхедил Эльфобой;
+Балмора — Хеддвильд;]]></text>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%92%D1%8B%D0%BD%D0%BE%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Выносливость (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Атрибуты]]></item>
+    <item type="str"><![CDATA[Атрибуты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Выносливость (ориг. Endurance) — один из атрибутов в игре The Elder Scrolls III: Morrowind, а также один из четырёх факторов, от которых зависят начальный и максимальный уровни здоровья и сил. С каждым новым уровнем здоровье персонажа увеличивается на десять процентов от его выносливости, даже изменённой во время поднятия уровня. Определяющий атрибут для персонажей, которые предпочитают древковое оружие, тяжёлые и средние доспехи. Выносливость позволяет меньше уставать во время боя и быстрее восстанавливать силы.
+Бонусы при создании персонажа
+Расы
+Классы
++10 Акробат
++10 Воин
++10 Воин Слова
++10 Пилигрим
++10 Разведчик
++10 Чародей
+Знак
++25 Созвездие Леди]]></text>
+</doc>

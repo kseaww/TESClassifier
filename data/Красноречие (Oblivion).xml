@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%80%D0%B5%D1%87%D0%B8%D0%B5_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Красноречие (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Oblivion)]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Красноречие (ориг. Speechcraft) — один из навыков Вора в игре The Elder Scrolls IV: Oblivion.
+Навык красноречия позволит более эффективно договариваться с игровыми персонажами и обменивать различные предметы и товары. Развивая навык, вы сможете продавать и покупать товары по более выгодным ценам, сбывать товар любым купцам независимо от их спецификации.
+Описание из игры: Способность вызывать любовь и доверие у слушателей во время разговора.
+Управляющий атрибут — Обаяние.
+Уровни развития
+Учителя навыка
+Учебники]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%A4%D0%B5%D0%BB%D0%BC%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Святой Фелмс]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Святые (Morrowind)]]></item>
+    <item type="str"><![CDATA[Храм Трибунала]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[…Если вам близко свирепое правосудие, следуйте дорогой Святого Фелмса Отважного…
+— «Жития Святых»
+Святой Фелмс Отважный (ориг. Saint Felms the Bold) — один из немногих святых в провинции Морровинд. Покровитель мясников и торговцев рыбой. Его святилище можно найти во всех храмах на Вварденфелле и в некоторых гробницах.
+Биография
+Этот отважный военачальник обратил в бегство захватчиков с севера и заставил их покинуть Морровинд. Он не умел ни читать, ни писать и получал вдохновение прямо из уст Альмсиви.]]></text>
+</doc>

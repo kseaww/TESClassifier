@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B2%D0%B5%D1%81%D1%82%D1%8B_%D0%B2%D0%B5%D0%B4%D1%8C%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_(Daggerfall)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Квесты ведьминского ковена (Daggerfall)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Главный квест (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Побочные Квесты (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Daggerfall)
+Женщины-колдуньи, собирающиеся на тайные шабаши в глубине лесов — ведьмы залива Илиак не сильно отличаются от земных представлений о Викке. Найти их очень сложно — информация о них практически не встречается, а искать методом тыка и путешествий пешком — труднее, чем иголку в стоге сена. Ведьмы хороши для двух вещей — во-первых, определённый квест, на котором специализируются шабаши, помогает излечиться от ликантропии и вампиризма (если такая дурная мысль вдруг придёт вам в голову). Во-вторых, в отличие от магов, ведьмы готовы рисковать жизнью и душой при вызове в подлунный мир Повелителей Даэдра каждый день. Правда, и золота они за это требуют — на целый флот хватит. Кстати, только ведьмы могут вызвать дикого Гирцина, Охотника Даэдр, покровителя ликантропии; на призывы рафинированных городских колдунов он не откликается.
+Как только вы придёте в ковен ведьм, поговорите с постоянно изменяющейся фигурой. Появится меню диалога. Пункт "Вызов даэдра" позволит вам вызвать одного из принцев даэдра (в зависимости от дня) и будет стоить вам несколько сотен тысяч золота. Единственный способ снизить затраты — выполнить различные квесты (пункт меню "Квест") и поднять вашу репутацию у ковена. Также высокая репутация позволит вам чаще получать квесты. Чтобы отчитаться за выполненный квест, вы должны выбирать меню "Поговорить" вместо "Квест".
+Квесты ковенов ведьм одни из самых выгодных в игре, так как за выполнение почти каждого из них вам дают какой-нибудь магический предмет.
+Квесты
+"We would use thee to find a perfidious document circulated by our enemies..."
+(любая репутация)
+Нужно забрать предмет из храма (перебив несколько стражников) и вернуть его ковену.
+"The <coven> actually could use thy assistance in a most absurd and yet serious matter..."
+(любая репутация)
+Нужно отвести ребёнка домой. По пути на вас нападут несколько фанатиков. За выполнение квеста вы получите кристалл (gem).
+"<Coven> have been contacted by the Mages Guild and asked about a special potion, a very sacred formula much desired in <province>..."
+(любая репутация)
+Нужно доставить магическое зелье в гильдию магов. Зелье является универсальным лекарством от вампиризма и ликантропии, так что на вас будут нападать оборотни и вампиры.
+"We have a potential problem I fear. A vampire ancient hateful of witches hath moved into an abandoned castle in our territory..."
+(любая репутация)
+Нужно найти и убить древнего вампира. Стандартное исследование подземелий.
+"Our sister has been in imprisoned. We need someone like thee to rescue her..."
+(любая репутация)
+Нужно освободить из плена одну из ведьм. Стандартное исследование подземелий.
+"Yes, as a matter of fact, thou could help us....We are an isolated coven, viewed with fear and hostility..."
+(любая репутация) Нужно забрать из указанного места книгу. Постарайтесь избежать стражи.
+"Thou wouldst help <coven>? Many come to us for aid, and then turn from us..."
+(репутация между 0 и 9)
+Нужно доставить браслет указанному человеку. После этого он превратиться в монстра и нападёт на вас.
+"If thou wisheth the help of the <coven>, first thou must help us. Will thou bring us the three ingredients we need to complete our brew..."
+(репутация 10 или больше)
+Нужно найти и принести 3 ингредиента из трёх подземелий. Стандартное исследование подземелий, но следите за временем.
+"Thou art friend to <coven>, this we know. But to help thee, a spell must be woven..."
+(репутация 20 или больше)
+Нужно принести от указанного человека предмет. За выполнение квеста вы получите 1000 золотых.
+"...We require a heart of a daedra for our spellcraft but the heart must be recently plucked and by thou..."
+(репутация между 40 и 49)
+Нужно убить даэдра. Стандартное исследование подземелий.]]></text>
+</doc>

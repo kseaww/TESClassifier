@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B2%D0%B5%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Двемерский боевой молот (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Двуручное оружие]]></item>
+    <item type="str"><![CDATA[Двуручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Дробящее оружие]]></item>
+    <item type="str"><![CDATA[Дробящее оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Молоты]]></item>
+    <item type="str"><![CDATA[Молоты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гномский боевой молот (ориг. Dwarven Warhammer) — боевой молот, дробящее оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Гномский боевой молот — дробящее двуручное оружие, созданное из металла, секрет изготовления которого утерян. Имеет тускло-жёлтый цвет (ранее золотой).
+Характеристики
+Скорость атаки: 1,00
+Длина: 1,50
+Объём зачарования: 5,5
+Местонахождение
+Гарантированно молот можно найти в таких местах:
+Бамз-Амсшенд, зона «Проход Идущего», лежит сверху на одном из двемерских шкафов;Tr
+Одросал, зона «Двемерская Академия», на полке на втором уровне комнаты, где обитает Дагот Одрос (нужна левитация, чтобы туда попасть);
+Тель Вос, Центральная башня, на столе рядом с другими образцами двемерского оружия и брони;
+Турейнулал, зона «Глаз Тома Ви», в двемерском шкафу.
+Гарантированно вооружён молотом только Ллерар Мандас.
+Также встречается в качестве случайного содержимого во всевозможных контейнерах по всему Вварденфеллу, но наиболее часто в двемерских руинах. Может попасться даже на Солстхейме, в кургане ЭдардBM, в одном из сундуков.]]></text>
+</doc>

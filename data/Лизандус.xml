@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D0%B8%D0%B7%D0%B0%D0%BD%D0%B4%D1%83%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лизандус]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Нежить]]></item>
+    <item type="str"><![CDATA[Нежить (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Призраки]]></item>
+    <item type="str"><![CDATA[Призраки (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Мужчины (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Бретоны (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Бретоны]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[Персонажи (Lore)]]></item>
+    <item type="str"><![CDATA[Мужчины (Lore)]]></item>
+    <item type="str"><![CDATA[Бретоны (Lore)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лизандус (ориг. Lysandus) — персонаж в игре The Elder Scrolls II: Daggerfall.
+Биография
+Лизандус  — король Даггерфолла, родившийся у Арслана II и Нульфаги в 3Э 354, муж королевы Минисеры. В 3Э 381 году у него родился сын Готрид, который стал править вместо него.
+Лизандус был убит в 3Э 403, угодив в ловушку, устроенную лордом Вудборном из Вэйреста во время Бетонской войны.
+Как король, Лизандус был доверенным вассалом Уриэля Септима VII. Во время его правления королевство Даггерфолл стало самым могущественным королевством в заливе Илиак.
+Во время войны Бетони он был убит вечером перед решающей битвой. Его сын Готрид остался руководить армиями Даггерфолла против сил Сентинеля на равнинах Крингаинового Поля.
+Труп Лизандуса был погребен в неизвестном месте. Тем не менее, его дух не обрёл покой после смерти. В течение многих лет он и его призрачная армия появлялись в городах Даггерфолла, сея страх и ужас в сердцах горожан.]]></text>
+</doc>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BB%D1%83%D0%B3%D0%B0_%D0%90%D0%B7%D1%83%D1%80%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Слуга Азуры]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Доспехи]]></item>
+    <item type="str"><![CDATA[Доспехи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Тяжелая броня]]></item>
+    <item type="str"><![CDATA[Тяжелая броня (Morrowind)]]></item>
+    <item type="str"><![CDATA[Щиты]]></item>
+    <item type="str"><![CDATA[Щиты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Слуга Азуры (ориг. Azura's Servant) — щит, тяжёлые доспехи в игре The Elder Scrolls III: Morrowind.
+Описание
+Слуга Азуры — зачарованный даэдрический щит.
+Чары
+На изделие наложены следующие чары:
+Удар холода 1–15 ед. (при касании).
+Уменьшить магию 1–10 ед. на 30 с. (на цель).
+Местонахождение
+Один из экземпляров этого щита спрятан в северо-восточной башне Тель Воса, в маленьком закутке, куда можно спуститься через люк. Щит охраняется случайным младшим даэдра. Также щит может появиться в продаже у следующих персонажей:
+Лландрис Тирандус — торговец Храма Трибунала, находящийся в Высоком Соборе в Вивеке;
+Элберт Нермарк — зачарователь, проживающий в Зале Мастеров, что в Годсриче, районе Морнхолда.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%93%D0%B8%D0%BB%D1%8C%D0%B4%D0%B8%D1%8F_%D0%B2%D0%BE%D1%80%D0%BE%D0%B2_(Online)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гильдия воров (Online)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/фракции (Thieves Guild)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Thieves Guild]]></item>
+    <item type="str"><![CDATA[Фракции]]></item>
+    <item type="str"><![CDATA[Фракции (Thieves Guild)]]></item>
+    <item type="str"><![CDATA[Гильдия воров]]></item>
+    <item type="str"><![CDATA[Гильдия воров (Thieves Guild)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Гильдия воров — преступная организация, занимающаяся как воровством, так и обучением этому искусству. Штаб-квартира Гильдии расположена в регионе Проклятие Хью, в городе Причал Абы. Незадолго до начала событий игры несколько членов Гильдии потерпели неудачу в ограблении, в следствии чего в живых из них осталась только лидер — Зейра.]]></text>
+</doc>

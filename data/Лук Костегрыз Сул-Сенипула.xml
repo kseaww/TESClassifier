@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D1%83%D0%BA_%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%B3%D1%80%D1%8B%D0%B7_%D0%A1%D1%83%D0%BB-%D0%A1%D0%B5%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лук Костегрыз Сул-Сенипула]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Стрельба]]></item>
+    <item type="str"><![CDATA[Стрельба (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Луки]]></item>
+    <item type="str"><![CDATA[Луки (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квестовые предметы]]></item>
+    <item type="str"><![CDATA[Квестовые предметы (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лук Костегрыз Сул-Сенипула (ориг. Bonebiter Bow of Sul-Senipul) — лук, артефакт, в игре The Elder Scrolls III: Morrowind.
+Описание
+Лук Костегрыз Сул-Сенипула — артефакт эшлендеров. Известно про него лишь то, что этот лук некогда принадлежал Сул-Сенипулу — отцу ашхана племени Уршилаку Сул-Матуула, который, в свою очередь, является одним из ключевых персонажей в основной сюжетной линии игры.
+Получение
+Луком владеет призрак Сул-Сенипула, которого можно найти в погребальных пещерах Уршилаку, в зоне «Прекрасное захоронение». Нужно убить его и забрать артефакт. Сами пещеры находятся на юго-востоке от лагеря племени.
+Чары
+Повреждение: Ловкость 20 пунктов (удал. цель)(при использовании)
+Квесты
+«Встретиться с Сул-Матуулом» — лук необходим для выполнения задания Сул-Матуула, после чего герой сможет оставить его себе.]]></text>
+</doc>

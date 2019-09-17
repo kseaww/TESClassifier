@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B5%D0%B2%D1%8F%D1%82%D1%8C_%D0%91%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Девять Божеств]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[Божества]]></item>
+    <item type="str"><![CDATA[Девять Божеств]]></item>
+    <item type="str"><![CDATA[Религия]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Девять Божеств (ориг. Nine Divines) — основная религия Империи Тамриэль.
+Акатош — бог-дракон времени. Расположение часовни — Кватч (Oblivion)
+Аркей — бог цикла рождения и смерти. Расположение часовни — Чейдинхол (Oblivion).
+Дибелла — богиня красоты. Расположение часовни — Анвил (Oblivion), Маркарт (Skyrim).
+Джулианос — бог мудрости и логики. Расположение часовни — Скинград (Oblivion).
+Зенитар — бог работы и торговли. Расположение часовни — Лейавин (Oblivion).
+Кинарет — богиня неба. Расположение часовни — Вайтран (Skyrim).
+Мара — богиня-Мать и богиня любви. Расположение часовни — Бравил (Oblivion), Рифтен (Skyrim).
+Стендарр — бог милосердия. Расположение часовни — Коррол (Oblivion).
+Талос/Тайбер Септим — бог войны и власти. Расположение часовни — Брума (Oblivion), Виндхельм и Маркарт (Skyrim).]]></text>
+</doc>

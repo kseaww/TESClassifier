@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B3_%D0%A2%D1%83%D0%BB%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Побег Тула]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Побочные квесты]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Побочные квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Заменить изображение]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Morrowind)
+Побег Тула (ориг. Tul's Escape) — сторонний квест в игре The Elder Scrolls III: Morrowind.
+Описание
+На дороге северо-западнее Сурана можно встретить аргонианина Тула, который сообщит, что является беглым рабом с плантации Дрена, и попросит проводить его к ближайшему схрону Двух Ламп — ферме Штердекана. При встрече со Штердеканом Тул поведает, что является наёмником Камонна Тонг, и ему поручили задание уничтожить Штердекана, в чём попросит оказать помощь. Если принять сторону Штердекана, то Тул нападет на главного героя. За убийство Тула Штердекан наградит Кольцом Первой преграды.
+Баги
+Если сказать Тулу, чтобы он подождал, то убийца начнёт себя вести как обычный раб, что приведёт к невозможности выполнения квеста.
+Решение: нужно убить Тула.]]></text>
+</doc>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8_%D0%BB%D1%91%D0%B3%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BE%D1%85%D0%BE%D0%B4%D0%BA%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ботинки лёгкой походки]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Доспехи]]></item>
+    <item type="str"><![CDATA[Доспехи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Тяжелая броня]]></item>
+    <item type="str"><![CDATA[Тяжелая броня (Morrowind)]]></item>
+    <item type="str"><![CDATA[Обувь]]></item>
+    <item type="str"><![CDATA[Обувь (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сапоги Лёгкой Походки (ориг. Ten Pace Boots) — сапоги, артефакт, тяжёлые доспехи в игре The Elder Scrolls III: Morrowind.
+Описание
+Один из артефактов Тамриэля. Несмотря на своё название, сами по себе невероятно тяжелы. Находятся в Бал Фелле у подножья статуи Шеогората. По слухам, были сделаны Матерью Ночи для первого Слышащего.
+Чары (активируемые):
+Увеличение характеристики «Скорость» — 20 пунктов на 120 сек., на себя;
+Увеличение навыка «Атлетика» — 20 пунктов на 120 сек., на себя;
+Уменьшение запаса сил — 5 пунктов на 120 сек., на себя;
+Замедление падения — 1 пункт на 120 сек., на себя.
+Заряд/Цена = Применений: 1,590/318 = 5
+Баги
+Из-за ошибки в прописке текстур сапог не видно на ноге. Исправляется сборником модов, либо за минуту в конструкторе, правильной пропиской любой желаемой текстуры.]]></text>
+</doc>

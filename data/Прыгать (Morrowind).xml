@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D1%80%D1%8B%D0%B3%D0%B0%D1%82%D1%8C_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Прыгать (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Прыжок (ориг. Jump) — магический эффект в игре The Elder Scrolls III: Morrowind.
+Описание
+Увеличивает высоту прыжка. Максимальная высота умножается на величину эффекта.
+Источники эффекта
+Заклинания
+Свитки
+Свиток Жабы Тинура.
+Зачарованные предметы
+Жабье кольцо.
+Зелья
+Уценённое зелье прыжка;
+Дешёвое зелье прыжка;
+Стандартное зелье прыжка;
+Качественное зелье прыжка;
+Эксклюзивное зелье прыжка.
+Связанные эффекты
+Замедление падения;
+Левитация.
+Алхимические ингредиенты
+Алхимических элементов с подобным эффектом нет, однако в игре существуют внутриигровые зелья с эффектом «Прыжок».]]></text>
+</doc>

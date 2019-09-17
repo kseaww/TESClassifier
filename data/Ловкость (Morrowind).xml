@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D0%BE%D0%B2%D0%BA%D0%BE%D1%81%D1%82%D1%8C_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ловкость (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Атрибуты]]></item>
+    <item type="str"><![CDATA[Атрибуты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ловкость (ориг. Agility) — один из атрибутов в игре The Elder Scrolls III: Morrowind. От него зависят такие навыки, как красться, легкие доспехи, защита и меткость. Кроме того, в бою высокий атрибут ловкости позволяет персонажу чаще уклоняться от атак, блокировать щитом и не терять равновесия. Ловкость напрямую влияет на способность скрытно перемещаться.
+Бонусы при создании
+Расы
+Классы
++10 Акробат
++10 Вор
++10 Инквизитор
++10 Лучник
++10 Монах
++10 Паладин
++10 Шпион]]></text>
+</doc>

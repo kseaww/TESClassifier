@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%B1%D0%BE%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Серебряный кубок]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Многозначные термины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Серебряный кубок (квест) — статья о квесте в игре The Elder Scrolls III: Morrowind
+Серебряный кубок (предмет) — статья о предмете в игре The Elder Scrolls IV: Oblivion]]></text>
+</doc>

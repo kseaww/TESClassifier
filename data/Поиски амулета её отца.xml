@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%D0%B8_%D0%B0%D0%BC%D1%83%D0%BB%D0%B5%D1%82%D0%B0_%D0%B5%D1%91_%D0%BE%D1%82%D1%86%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Поиски амулета её отца]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Главный квест (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Morrowind)
+Поиски амулета её отца (ориг. Search for Her Father's Amulet) — сторонний квест в игре The Elder Scrolls III: Morrowind.
+Прохождение
+В родовой гробнице Аренимов, на юго-восток от лагеря Эрабенимсунов, на побережье Азуры, находится Сатиана. Она сообщит, что это захоронение её отца — Агустаса и попросит вернуть амулет с его тела, обещая взамен остальные сокровища усыпальницы. Останки Агустаса находятся под сводами зала, дверь в который заперта (замок 60 единиц). Девушка сообщает протагонисту что ключ от двери можно найти на теле друга её отца, покоящегося здесь же. Когда амулет окажется в руках героя, девушка потребует его себе. Можно выполнить свою часть сделки, отдав его, либо отказаться, но тогда Сатиана применит силу.]]></text>
+</doc>

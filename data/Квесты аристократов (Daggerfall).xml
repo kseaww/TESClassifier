@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B2%D0%B5%D1%81%D1%82%D1%8B_%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D0%B2_(Daggerfall)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Квесты аристократов (Daggerfall)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Побочные квесты]]></item>
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Побочные квесты (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Побочные Квесты (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Daggerfall)
+Описание
+Минимум репутации, необходимой для получения квеста, 15. Так что попробуйте поискать квесты, поднимающие репутацию у знати. Многие из этих квестов связаны с контрабандой, так что ваша репутация у гильдии воров может упасть.
+Квесты
+"You may be aware that I am forming an alliance with <name>..."
+(репутация 10 или больше)
+Нужно убить гиганта (или другого монстра) и сообщить об этом указанному человеку. Стандартное исследование подземелий.
+"I need someone to bring an item to a contact of mine in <town>..."
+(репутация 10 или больше)
+Контрабанда. Нужно отнести деньги нужному человеку и принести выданный предмет обратно. Могут возникнуть проблемы с гильдией воров.
+"If you are available for hire, I need someone reliable to carry out a certain, covert mission..."
+(репутация 10 или больше)
+Контрабанда. Нужно отнести изумруд одному человеку, взять у него предмет и отнести его другому человеку. Также у вас есть возможность отдать этот предмет гильдии воров, иначе придётся драться с четырьмя или пятью ворами (что понизит вашу репутацию у гильдии воров).
+"If you want work, I am looking for someone to take a special item to an acquaintance of mine..."
+(репутация 10 или больше)
+Контрабанда. Квест, практически аналогичный предыдущему. В награду вы получите рубин.
+"The whining peasants who work my land near <dungeon> have long complained about evil wizardry being practiced in that dungeon..."
+(репутация 10 или больше)
+Нужно убить мага. Стандартное исследование подземелий. После выполнения квеста ваша репутация у обычного населения немного поднимется.
+"I have an item that's very precious to me. It's been handed down from generation to generation in my family..."
+(репутация 10 или больше)
+Забрать украденный предмет у орков. Стандартное исследование подземелий.
+"If you could, I am in need of assistance from someone I know isn't a complete buffoon..."
+(репутация 10 или больше)
+Нужно украсть из храма предмет и отнести его указанному человеку. Ваша репутация у этого храма понизится.
+"Yes, I do have something for an able-bodied young <race>. It's nothing special...."
+(репутация 10 или больше)
+Контрабанда. Нужно найти в подземелье нужного человека и забрать у него предмет. По дороге обратно на вас будут нападать воры. Стандартное исследование подземелий.
+"If you are interested in earning <number> gold for doing nothing more than delivering a little parcel..." или "I could use the services of someone of moderate talent..."
+(репутация 10 или больше)
+Контрабанда. Нужно доставить предмет нужному человеку.
+"You are not by any chance free to run a little errand for me?..."
+(репутация 10 или больше)
+Контрабанда.
+"Yes, this is a potentially awkward situation I'm in..."
+(репутация 10 или больше)
+Опять контрабанда.
+"I have a mission of some diplomatic importance. A gift of peace that needs be exchanged..."
+(репутация 10 или больше)
+Обычный квест на доставку предмета. Следите за временем, его может не хватить.
+"Are you by any chance available for a little assignment that should not take you any time at all..."
+(репутация 10 или больше)
+Обычный квест на доставку предмета.
+"I have a somewhat complicated mission that needs a fourth man involved..."
+(репутация 10 или больше)
+Нужно отнести бриллиант одному человеку, взять у него предмет и отнести его другому человеку.
+"I was wondering if you might do me a small favor..."
+(репутация 10 или больше)
+Квест, аналогичный предыдущему, но на этот раз связан с наркотиками.
+"Are you free for a few days to do me a little favor? I just need something I borrowed brought back to its owner..."
+(репутация 10 или больше)
+Контрабанда. Нужно отнести кристалл (gem) одному человеку, взять у него предмет и отнести его другому человеку. Также у вас есть возможность отдать этот предмет гильдии воров, иначе придётся драться с четырьмя ворами (что понизит вашу репутацию у гильдии воров).
+"How would you like to have a lovely reward from my treasury..."
+(репутация 10 или больше)
+Нужно забрать ингредиент и отнести его алхимику.
+"My cousin has appealed to me for aid in a rather distasteful situation..."
+(репутация 10 или больше)
+Нужно остановить освящение орочьего храма, для чего нужно убить орка-шамана. Стандартное исследование подземелий. После выполнения квеста ваша репутация у Орсиниума понизится.
+"I have an acquaintance, an alchemist of some skill by the name of <name>..."
+(репутация больше 10)
+Нужно доставить сердце даэдры. В процессе выполнения придётся драться с даэдра, желающей отнять у вас это сердце.
+"If you have a couple days to spare and wouldn't mind being <number> gold pieces richer, I have a mission requiring some speed and delicacy..."
+(репутация больше 10)
+Нужно отнести телескоп одному человеку, взять у него предмет и отнести его другому человеку.
+"I'm in rather a delicate situation...If I could count on your diligence and your silence..."
+(репутация больше 10)
+Контрабанда. Нужно принести от торговца кольцо. Также придётся драться с ворами.
+"I was wondering if you might do me a small favor. You see, I have a friend who requires a certain shipment of a certain substance brought by a certain time..."
+(репутация больше 10)
+Контрабанда. Ещё один квест на доставку двух предметов.
+"I have a friend, a potential ally, who is in need of discreet assistance. It's a relatively simple salvage operation..."
+(репутация 10 или больше)
+Нужно найти и принести сапфир. Стандартное исследование подземелий.
+"If you are available for hire, I am looking for someone to purvey a special item to an acquaintance of mine..."
+(репутация 10 или больше)
+Нужно доставить предмет нужному человеку. По дороге на вас будут нападать орки. Один из них скажет вам имя NPC. Если вы поговорите с ним, то узнаете, что предмет был украден из Орсиниума. Если вы отдадите предмет ему, то ваша репутация у Гортвога повысится.
+"I need someone to bring a certain item to a contact of mine in <location>. You will receive an item in return..."
+(репутация 30 или больше)
+Контрабанда. Ещё один квест на доставку двух предметов. Однако предмет, который вы несёте, у вас украдут. На трупе вора, который на вас нападёт, вы найдёте карту с местонахождением подземелья, где вы можете найти украденный предмет. За выполнение квеста вам дадут магический предмет и иногда могут отметить на карте местонахождение ковена ведьм.
+"I am in trouble with a group of daedra and am looking for someone to purvey a rare manuscript to an acquaintance of mine..."
+(репутация между 40 и 49)
+Нужно доставить книгу. На вас постоянно будут нападать даэдра. Одна из них скажет, где можно найти одного из принцев даэдра. Если вы отдадите книгу ему, то ваша репутация у сил Обливиона возрастёт. В случае нормального выполнения квеста вам отметят на карте местонахождение ковена ведьм.
+"...always a pleasure to see you, my dear friend, especially when I need help..."
+(репутация 60 или больше)
+Нужно доставить предмет, за которым охотится одно из племён вампиров. Если вы отдадите предмет вампирам, то в награду получите немного денег и магический предмет. Также ваша репутация у этого племени возрастёт. В случае нормального выполнения квеста вам отметят на карте местонахождение ковена ведьм.]]></text>
+</doc>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%B2%D0%B8%D0%B4%D0%B0_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Четыре вида грибов]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квесты (Гильдия магов (Morrowind))]]></item>
+    <item type="str"><![CDATA[Гильдия магов (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квесты (Гильдия магов)]]></item>
+    <item type="str"><![CDATA[Гильдия магов]]></item>
+    <item type="str"><![CDATA[Квесты (Балмора (Morrowind))]]></item>
+    <item type="str"><![CDATA[Балмора (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квесты (Балмора)]]></item>
+    <item type="str"><![CDATA[Балмора]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Morrowind)
+Четыре вида грибов (ориг. Four Types of Mushrooms) — квест фракций Гильдия магов и Балмора в игре The Elder Scrolls III: Morrowind.
+Краткое прохождение
+Прохождение
+После вступления в Гильдию магов и разговора с Ажирой, герой получает задание от последней — найти и принести четыре вида грибов: светящуюся сыроежку, лиловый копринус, банглер бейн и гайфа фация. Ажира подробно рассказывает, где найти грибы, после чего добавляется запись в журнал. Также их можно приобрести у алхимиков или совершить поездку на силт страйдере до Сейда Нин и найти необходимые компоненты на болотах Горького берега.
+Награда
+За предоставленные грибы Ажира даст герою четыре дешёвых зелья восстановления здоровья.]]></text>
+</doc>

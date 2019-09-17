@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D0%BB%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D0%BB_(%D0%BC%D0%B5%D1%87)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бладскал (меч)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Bloodmoon]]></item>
+    <item type="str"><![CDATA[Предметы (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Оружие (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+    <item type="str"><![CDATA[Мечи (Bloodmoon)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Bloodmoon)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бладскал (ориг. Bloodskal) — одноручный меч, длинный клинок в игре The Elder Scrolls III: Bloodmoon.
+ОписаниеПравить
+В игре The Elder Scrolls III: Bloodmoon этот серебряный длинный клинок нордского дизайна покоится в одноимённом кургане Бладскал, на первый взгляд не охраняемый никем. Но стоит только игроку забрать меч с алтаря, на него нападут мертвецы, возникшие буквально из ниоткуда.
+ЧарыПравить
+Удар холода 10-30 пп. при ударе
+Заряд / расход энергии = 80 / 8 = 10 ударов.]]></text>
+</doc>

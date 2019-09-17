@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%AD%D1%82%27%D0%90%D0%B4%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эт'Ада]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[Расы]]></item>
+    <item type="str"><![CDATA[Божества]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эт'Ада (ориг. Et'Ada) — изначальные духи, возникшие из духа первоначальных сущностей Ану и Падомая (порядок и хаос). По сути своей почти все эт'Ада являются богами-потомками обоих первобогов. Эт'Ада, сочетающие в себе частицы и Ану, и Падомая, участвовали в сотворении мира и стали называться аэдра. Чистокровные потомки Падомая отказались вкладывать часть своей силы в создание нового мира, и теперь они зовутся даэдра. Чистокровные потомки Ану стали звёздами (Магне-Ге).
+ Примечание: Не стоит понимать слово «кровь» буквально. В данном случае кровь — это частицы, эманации Ану и Падомая.]]></text>
+</doc>

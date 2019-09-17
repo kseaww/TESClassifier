@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%95%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D1%81%D0%BE%D1%85_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9B%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Епископский посох святого Ллотиса]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Дробящее оружие]]></item>
+    <item type="str"><![CDATA[Дробящее оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Посохи]]></item>
+    <item type="str"><![CDATA[Посохи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты Храма Трибунала]]></item>
+    <item type="str"><![CDATA[Квестовые предметы]]></item>
+    <item type="str"><![CDATA[Квестовые предметы (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Епископский посох святого Ллотиса (ориг. Crosier of St. Llothis) — посох, дробящее оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Епископский посох святого Ллотиса — артефакт Храма Трибунала, посох, некогда принадлежащий одному из святых — святому Ллотису.
+Квесты
+«Епископский посох святого Ллотиса Благочестивого» — этот святой посох находится в кратере Красной горы в цитадели Дагот Ура. Чары, наложенные на посох, явно дают понять, каким образом был убит Воруз Бетримо, его предыдущий владелец. Разумеется, использование посоха в бою не принесёт пользы.
+ Примечание: Уву Лларен в Храме Трибунала Призрачных Врат попросит героя вернуть этот артефакт. Когда протагонист достигнит сана патриарха, она отдаст ему посох.]]></text>
+</doc>

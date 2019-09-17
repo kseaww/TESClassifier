@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D0%B0%D0%BD_(Arena)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лабиринтиан (Arena)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Arena)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Упрямая трава и корни борются за жизнь в этом жёстком арктическом климате, отказываясь сдаваться. Напротив вас лежит вход в Лабиринтиан, испытательный полигон Архимага Шалидора. В хитросплетении его ходов спрятана вторая часть Посоха Хаоса…
+— О Лабиринтиане
+Описание
+Лабиринтиан — одна из локаций в Тамриэле, где находится часть Посоха Хаоса, спрятанная там Джагаром Тарном. Расположен он в Скайриме, и Вечному Чемпиону придётся потрудиться, чтобы найти его. Лабиринтиан представляет собой очень большое и извилистое подземелье, состоящее из двух уровней. На первом и спрятана Вторая Часть Посоха Хаоса.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B0%D0%BD%D1%84%D0%B8%D1%80_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Кланфир (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Существа]]></item>
+    <item type="str"><![CDATA[Существа (Morrowind)]]></item>
+    <item type="str"><![CDATA[Даэдра]]></item>
+    <item type="str"><![CDATA[Даэдра (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Кланфир (ориг. Clannfear) — даэдра в игре The Elder Scrolls III: Morrowind.
+Описание
+Кланфир — это крупный и довольно опасный даэдра, всё ещё прямоходящий и использующий для атак руки. С его тела можно подобрать ценное для алхимиков сердце даэдра. Он довольно медлителен (его скорость всего 14). Этот даэдра по степени опасности идёт после скампов.
+Герой также может изучить заклинание призыва этого существа. Его характеристики аналогичны враждебным ужасам клана, а его ID — clannfear_summon.]]></text>
+</doc>

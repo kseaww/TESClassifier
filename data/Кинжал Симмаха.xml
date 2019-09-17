@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B8%D0%BD%D0%B6%D0%B0%D0%BB_%D0%A1%D0%B8%D0%BC%D0%BC%D0%B0%D1%85%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Кинжал Симмаха]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Tribunal)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Tribunal]]></item>
+    <item type="str"><![CDATA[Предметы (Tribunal)]]></item>
+    <item type="str"><![CDATA[Оружие (Tribunal)]]></item>
+    <item type="str"><![CDATA[Кинжалы]]></item>
+    <item type="str"><![CDATA[Кинжалы (Tribunal)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Tribunal)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Кинжал Симмаха (ориг. Dagger of Symmachus) — кинжал, артефакт, короткий клинок в игре The Elder Scrolls III: Tribunal.
+ОписаниеПравить
+Стеклянный церемониальный кинжал генерала Симмаха, знаменитого полководца Тайбера Септима, командующего во время войны с Морровиндом. Этот артефакт становится подарком от сына Симмаха, короля Хелсета Хлаалу, впечатлённого победой героя над его чемпионом Карродом.
+ХарактеристикиПравить
+Стеклянный кинжал, короткий одноручный клинок:
+Рубящий удар: 12 - 17
+Режущий удар: 12 - 16
+Колющий удар: 13 - 13
+Скорость атаки: 2,7
+Постоянный эффект, на себя:
+Увеличение навыка "Короткие клинки" 10 п.
+Увеличение выносливости 10 п.
+Отражение магии 10 п.
+Благодаря лёгкому весу, неплохому зачарованию, повышенным урону и скорости атаки, данный кинжал превосходит даже свои даэдрические аналоги.
+ПримечаниеПравить
+Если хотите, то можете подарить или продать кинжал за 10000 септимов в Морнхолдский музей артефактов.]]></text>
+</doc>

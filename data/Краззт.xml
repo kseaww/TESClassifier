@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B0%D0%B7%D0%B7%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Краззт]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Вивек]]></item>
+    <item type="str"><![CDATA[Персонажи (Вивек)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Дремора (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Дремора]]></item>
+    <item type="str"><![CDATA[Заменить изображение]]></item>
+    <item type="str"><![CDATA[Существа]]></item>
+    <item type="str"><![CDATA[Существа (Morrowind)]]></item>
+    <item type="str"><![CDATA[Даэдра]]></item>
+    <item type="str"><![CDATA[Даэдра (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Краззт (ориг. Krazzt) — персонаж в игре The Elder Scrolls III: Morrowind.
+Описание
+Краззт — дремора, охраняющий Алтарь Учтивости в Канале Загадок, что в городе Вивек. Часто выражается прозой, однако из разговора с ним становится понятно, что ему совершенно невыносимо и скучно выполнять эту работу.
+Для того чтобы завершить паломничество к этому алтарю, главный герой должен проявить учтивость и отдать безоружному дремора серебряный длинный меч.]]></text>
+</doc>

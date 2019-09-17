@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82_(Skyrim)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Загружаемый контент (Skyrim)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Skyrim]]></item>
+    <item type="str"><![CDATA[Официальные Плагины]]></item>
+    <item type="str"><![CDATA[The Elder Scrolls]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Для разнообразия игрового времени Bethesda выпустила 5 загружаемых контентов: , , , Fall of the Space Core, Vol.1, High Resolution Texture Pack.
+Для их активации вам потребуется приобретенная копия The Elder Scrolls V: Skyrim на Steam PC  , XBL 360   или PSN PS3   аккаунте и денежные средства или поинты (в зависимости от магазина).
+Даты выхода
+Fall of the Space Core, Vol.1 был создан совместно c сотрудниками Valve в честь выхода редактора Creation Kit и появления Skyrim в Steam Workshop. Выходит в качестве модификации в Steam Workshop.
+Skyrim: High Resolution Texture Pack — 7 февраля 2012 PC   Бесплатен в Steam.
+The Elder Scrolls V: Dawnguard — 26 июня 2012 360  , 3 августа 2012 PC  , 26 февраля 2013 PS3  .
+The Elder Scrolls V: Hearthfire — 2 сентября 2012 360  , 4 октября 2012 PC  , 19 февраля 2013 PS3  .
+The Elder Scrolls V: Dragonborn — 4 декабря 2012 360  , 5 февраля 2013 PC   PS3  .]]></text>
+</doc>

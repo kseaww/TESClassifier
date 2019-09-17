@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A5%D0%B5%D0%BB%D0%B0%D1%80%D1%87%D0%B5%D0%BD_%D0%9A%D1%80%D0%B8%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хеларчен Крик]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Необходим план локации!]]></item>
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Хеларчен Крик]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Arena)]]></item>
+    <item type="str"><![CDATA[Поселения]]></item>
+    <item type="str"><![CDATA[Поселения (Arena)]]></item>
+    <item type="str"><![CDATA[Скайрим]]></item>
+    <item type="str"><![CDATA[Локации (Скайрим)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Хеларчен Крик — небольшое поселение в провинции Скайрим. Это одно из множества поселений, которое может обнаружить главный герой, путешествуя по Тамриэлю. Из близлежащих населённых пунктов можно отметить поселения Данпар Волл на юго-западе и Данстар на северо-западе, на востоке находится Ледяная Крепость.]]></text>
+</doc>

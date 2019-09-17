@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B8_(Skyrim)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Способности (Skyrim)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Skyrim]]></item>
+    <item type="str"><![CDATA[Навыки (Skyrim)]]></item>
+    <item type="str"><![CDATA[Таланты (Skyrim)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Каждый раз, когда игрок получает новый уровень, он получает одно очко, которое можно потратить на определённую способность. Все способности (кроме базовых) имеют определённые требования — зачастую это уровневая планка навыка, которую игрок должен достигнуть, чтобы суметь активировать способность. Некоторые из них имеют несколько рангов, соответственно, для их максимального раскрытия нужно вложить несколько очков. Необязательно распределять очки сразу, можно повременить до тех пор, пока не будет определено направление развития персонажа.]]></text>
+</doc>

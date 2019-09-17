@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9E%D0%BA%D0%B0%D0%BD-%D0%A8%D0%B5%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Окан-Шей]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Эбенгард]]></item>
+    <item type="str"><![CDATA[Восточная имперская компания]]></item>
+    <item type="str"><![CDATA[Восточная имперская компания (Morrowind)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Аргониане (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Аргониане]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Окан-Шей (ориг. Okan-Shei) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Окан-Шей — аргонианин-учёный, проживающий в Эбенгарде. Встретить его можно в отделении Восточной имперской компании. Он не выдаёт никаких квестов, не участвует в них и не предоставляет каких-либо услуг. Однако, как и всякий учёный, может предоставить множество информации о географии, населении, религии и политике Морровинда.
+Инвентарь
+Окан-Шей носит дорогую рубашку, штаны и ботинки, оружия при себе не имеет. В его карманах можно найти случайное количество золотых.
+Характеристики
+Кроме расовых аргонианских, другими талантами не обладает.]]></text>
+</doc>

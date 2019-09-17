@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%93%D0%BE%D1%80%D1%8B_%D0%94%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D1%8C%D0%B5%D0%B3%D0%BE_%D0%A5%D0%B2%D0%BE%D1%81%D1%82%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Горы Драконьего Хвоста]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[География]]></item>
+    <item type="str"><![CDATA[Горы Драконьего Хвоста]]></item>
+    <item type="str"><![CDATA[Регионы]]></item>
+    <item type="str"><![CDATA[Регионы (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Локации (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Горы]]></item>
+    <item type="str"><![CDATA[Тамриэль]]></item>
+    <item type="str"><![CDATA[Горы (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Горный хребет, проходящий вдоль границы Хай Рока и Хаммерфелла, имеет выход к заливу Илиак. Является границей между многими регионами, в том числе Тотамбу, Дак'фрон, Сантаки, Лайнлин, Козансет, Моурнот. Горы полностью окружают регион Эфесус. Населён, в основном, орками и редгардами. Против обыкновения, здесь располагаются два ковена ведьм вместо одного.
+В центре региона, вдалеке от обжитых мест находится Курган Бедствий (ориг. Scourg Barrow), подземный комплекс, служащий штаб-квартирой лидеру всея некромантов Маннимарко, известному также как Король Червей. За мраморной крышкой гроба в одиноком склепе скрывается вход в лабиринт пещер, населённый нежитью.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%99%D0%B5%D1%80%D0%BF%D0%B5%D1%81%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Йерпест]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Расы]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Йерпест (ориг. Yespest) — вымерший из-за Кнахатенского гриппа народ недов, населявших в древности территорию современного Чернотопья.
+Источники
+«Путеводитель по Империи и её окрестностям. 3-е издание».]]></text>
+</doc>

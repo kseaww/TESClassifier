@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9C%D1%83%D0%BC%D0%B8%D1%8F_(Daggerfall)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мумия (Daggerfall)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Существа]]></item>
+    <item type="str"><![CDATA[Существа (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Нежить]]></item>
+    <item type="str"><![CDATA[Нежить (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мумия (ориг. Mummy) — нежить в игре The Elder Scrolls II: Daggerfall.
+Описание
+Мумия — представитель нежити. В своей земной жизни они были знатными воинами. После смерти их тела мумифицировали, однако чья-то злая воля снова вернула их к жизни. Некоторые некроманты специально создают мумифицированных слуг.
+Довольно слабый противник. На трупе мумии часто можно найти немалые суммы золота.
+Мумии не наносят проклятия, но, как и зомби, являются переносчиками страшных болезней. Как и любая другая нежить, мумии более восприимчивы к серебряному и более дорогому оружию, нежели к обычному.
+Характеристики]]></text>
+</doc>

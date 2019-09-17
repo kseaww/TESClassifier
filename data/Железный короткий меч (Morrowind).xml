@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%87_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Железный короткий меч (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+    <item type="str"><![CDATA[Мечи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Железный короткий меч (ориг. Iron Shortsword) — меч, короткий клинок в игре The Elder Scrolls III: Morrowind.
+Описание
+Железный короткий меч — короткое одноручное оружие паршивой ковки, созданное из железа.
+Характеристики
+Объём зачарования: 4
+Длина: 1,00
+Скорость атаки: 2,00
+Местонахождение]]></text>
+</doc>

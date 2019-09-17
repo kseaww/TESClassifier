@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%99%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Йокумер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Расы]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Леворукие эльфы (ориг. Lefthanded Elf) или Йокумеры жили на Йокуде, родине редгардов, до её погружения под воду.
+Леворукие эльфы были отличными воинами и оружейниками. Также считается, что леворукие эльфы создали Орихалковую Башню Йокуды. Своё название они получили из-за того, что в большинстве своём были левшами. Подразумевается, что все они были уничтожены во время войны с редгардами. По преданию Диагна принёс оружие из орихалка, чтобы йокуданцы победили леворуких эльфов.
+Источники
+«Разновидности веры в Империи» — Брат Михаэл Каркуксор.]]></text>
+</doc>

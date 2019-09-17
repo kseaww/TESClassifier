@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B1%D0%BE%D0%BB%D1%82_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Железный болт (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Стрельба]]></item>
+    <item type="str"><![CDATA[Стрельба (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Болты]]></item>
+    <item type="str"><![CDATA[Болты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Железный болт (ориг. Iron Bolt) — болт, боеприпас в игре The Elder Scrolls III: Morrowind.
+Описание
+Железный болт — снаряд, чей наконечник создан из железа. Предназначен для стрельбы из арбалета.
+Характеристики
+Объём зачарования: 2
+Местонахождение
+Альд'рун, Гильдия бойцов, сундук.
+Балмора, Гильдия бойцов, сундук.
+Веминал, Внешняя крепость, сундук.
+Вивек, Квартал Чужеземцев, Гильдия бойцов, сундук.
+Мзанченд, сундук.
+Одросал, двемерская академия, два сундука.
+Родовая гробница Орети.
+Родовая гробница Уверан.
+Садрит Мора, Волверин Холл, Гильдия бойцов, сундук.
+Форт Лунной Бабочки, Внутренние помещения, сундук.
+Шушиши.]]></text>
+</doc>

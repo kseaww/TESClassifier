@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D0%B8%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Биполярный клинок]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Tribunal)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Tribunal]]></item>
+    <item type="str"><![CDATA[Предметы (Tribunal)]]></item>
+    <item type="str"><![CDATA[Оружие (Tribunal)]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+    <item type="str"><![CDATA[Мечи (Tribunal)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Tribunal)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Двуручное оружие]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Биполярный клинок (ориг. BiPolar Blade) — меч, артефакт, длинный клинок в игре The Elder Scrolls III: Tribunal.
+Биполярный клинок — артефакт, по легенде заказанный аристократом, пожертвовавшим всем своим состоянием для создания могущественного клинка. Два кузнеца в противоположных концах Тамриэля создали две половинки клинка, однако, не зная друг о друге и не получив чётких указаний, зачаровали обе половинки так, что их эффекты сводили друг друга к нулю
+— Тораса Арам, Морнхолдский музей артефактов
+Описание
+Биполярный клинок — артефакт и бывший экспонат Морнхолдского Музея артефактов. Судя по городским сплетням, незадолго до событий The Elder Scrolls III: Tribunal артефакт был украден, стража выследила и убила вора, но меч вернуть не смогла. Скорее всего вор успел продать его торговцу Сунелу Хласу.
+Характеристики
+Двуручный меч:
+Рубящий урон: 4−61
+Режущий урон: 1−50
+Колющий урон: 1−35
+Зачарование:
+Разъярить гуманоида 30 ед. на 15 сек. при ударе
+Успокоить гуманоида 30 ед. на 15 сек. при ударе
+Заряд / расход энергии = 450 / 45 = 10 ударов.
+Квесты
+«Сваха» — меч выдаст в награду Сунел Хлас, если устроить его отношения с Мареной Гилнит.]]></text>
+</doc>

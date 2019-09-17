@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0_(Skyrim)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Стрельба (Skyrim)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Skyrim]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Skyrim)]]></item>
+    <item type="str"><![CDATA[Стрельба]]></item>
+    <item type="str"><![CDATA[Стрельба (Skyrim)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Стрельба (ориг. Archery) — навык из игры The Elder Scrolls V: Skyrim, влияющий на наносимый луками и арбалетами урон, который также зависит от используемой амуниции. Главное отличие арбалетов от луков — достаточно долгая перезарядка, компенсирующаяся высоким уроном и хорошей баллистикой. Владение стрелковым оружием предпочтительно воинам для атак на большой дистанции, а также персонажам, ведущим скрытный бой. В ближнем бою стрелковым оружием, так же, как и щитом, можно ошеломить противника. На рост этого навыка влияет прикосновение к Камням Воина и Любовника.]]></text>
+</doc>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B0%D1%8D%D0%B4%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%82%D0%B0%D0%BD%D0%B0_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Даэдрическая катана (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+    <item type="str"><![CDATA[Мечи (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Даэдрическая катана (ориг. Daedric Katana) — меч, длинный клинок в игре The Elder Scrolls III: Morrowind.
+Описание
+Даэдрическая катана — длинное одноручное оружие, созданное из редкой породы вулканического стекла, эбонита, и искусно очищенное с помощью магических веществ, добытых из младших существ Обливиона, а потому имеет зловещий чёрный вид с красными узорами.
+В целом, формы как клинка, так и рукояти оружия соответствуют таковым у классической катаны.
+Характеристики
+Скорость атаки: 1,50
+Длина: 1,00
+Объём зачарования: 18
+Местонахождение
+Плантация Дрена, Вилла Дрена (Галос Фарети).
+Дремора или Владыка дремора (возможное оружие).
+Золотой святой (возможное оружие).
+Мента-На (возможный трофей).
+Солстхейм, курган Эдард, один из сундуков (возможное содержимое).BM
+Как одна из наград на выбор от Драма Беро за выполнение квеста «Эбонитовая шахта Вассир-Диданат».]]></text>
+</doc>

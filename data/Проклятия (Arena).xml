@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%B8%D1%8F_(Arena)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Проклятия (Arena)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/магия (Arena)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Магия (Arena)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Проклятия схожи с заболеваниями, но влияют на интеллект (ориг. Intelligence), силу воли (ориг. Willpower), обаяние (ориг. Personality) и удачу (ориг. Luck).
+Так же, как и с другими повреждающими характеристики атаками, если один из атрибутов персонажа игрока достигнет нуля, он умрёт. Однако проклятия редко имеют продолжительность, угрожающую смертью героя. Тем не менее, иметь заниженный до 15 единиц уровень интеллекта опасно. Если протагониста постигнет ещё одно проклятие, он может умереть. Чтобы не допустить проклятия или своевременно избавиться от него в храме, стоит придерживаться тех же советов, что и в случае болезней.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A8%D0%BE%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Шок]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Многозначные термины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Шок (Morrowind) — статья о заклинании в игре The Elder Scrolls III: Morrowind.
+Шок (Oblivion) — статья о заклинании в игре The Elder Scrolls IV: Oblivion.]]></text>
+</doc>

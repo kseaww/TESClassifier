@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%98%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8_%D0%94%D1%80%D0%B5%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ильмени Дрен]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Дом Хлаалу]]></item>
+    <item type="str"><![CDATA[Две Лампы]]></item>
+    <item type="str"><![CDATA[Вивек]]></item>
+    <item type="str"><![CDATA[Персонажи (Вивек)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Женщины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Данмеры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Данмеры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ильмени Дрен (ориг. Ilmeni Dren) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Ильмени Дрен — дочь герцога Ведама Дрена и глава аболиционистов Вварденфелла. Лидер незаконной организации Две Лампы. Её дядя, Орвас Дрен, является одним из самых крупных рабовладельцев Вварденфелла, однако, не разделяет её взглядов на институт рабства.
+Квесты
+«Две Лампы» — найти сбежавшего раба — Дж'Садда;
+«Знак девы» — вернуть тёмной эльфийке её перчатку;
+«Кампания грамотности» — принести Ильмени книги «Ануад с комментариями» и «Букварь для варваров»;
+«Кольцо Браллиона» — Ильмени попросит героя принести ей кольцо Браллиона;
+«Освободить Прячущего-Ногу» — отправиться на плантацию Дрена и освободить аргонианина.
+Баги
+Внимание! По достижении ранга Грандмастер в Доме Хлаалу, Ильмени не сможет выдать квесты, стоящие под ссылкой «дела» («Кампания грамотности» и «Кольцо Браллиона») - поскольку не может отдавать приказы вышестоящему по званию.]]></text>
+</doc>

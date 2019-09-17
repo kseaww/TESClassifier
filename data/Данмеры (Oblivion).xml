@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B0%D0%BD%D0%BC%D0%B5%D1%80%D1%8B_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Данмеры (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/прочее (Oblivion)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Расы (Oblivion)]]></item>
+    <item type="str"><![CDATA[Данмеры (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Таланты и умения]]></text>
+</doc>

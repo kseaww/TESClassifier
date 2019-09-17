@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0_%D0%A5%D1%80%D1%83%D0%BD%D0%B4%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Любовница Хрунди]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квесты (Гильдия воров (Morrowind))]]></item>
+    <item type="str"><![CDATA[Гильдия воров (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квесты (Гильдия воров)]]></item>
+    <item type="str"><![CDATA[Гильдия воров]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Morrowind)
+Любовница Хрунди (ориг. Hrundi's Lover) — квест фракции Гильдия воров в игре The Elder Scrolls III: Morrowind.
+Описание
+Это ещё один квест из линии становления сотрудничества между Гильдией воров и Гильдией бойцов.
+Прохождение
+Поговорив с жителями Садрит Моры, герой узнает, что Хрунди в свободное время ходит в таверну «Дыра в стене Фары». После разговора с посетителями таверны выяснится, что там он встречается со своей любовницей — данмеркой Фаленой Хларен.
+Хрунди — норд из отделения Гильдии бойцов в Садрит Море. Протагонисту достаточно упомянуть в разговоре с ним, что он знает о его любовнице, и он согласится поддержать Гильдию воров.
+Стадии квеста
+Чтобы перейти к определённому этапу выполнения квеста, введите в консоли:
+где параметр stage — число, этап квеста (все этапы перечислены ниже).]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B8%D0%B5_(Skyrim)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Оружие (Skyrim)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Многозначные термины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Перечень одноручного оружия
+Перечень двуручного оружия
+Перечень стрелкового оружия
+Перечень посохов]]></text>
+</doc>

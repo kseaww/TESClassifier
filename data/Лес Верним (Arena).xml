@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D0%B5%D1%81_%D0%92%D0%B5%D1%80%D0%BD%D0%B8%D0%BC_(Arena)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лес Верним (Arena)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Необходим план локации!]]></item>
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Лес Верним]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Arena)]]></item>
+    <item type="str"><![CDATA[Поселения]]></item>
+    <item type="str"><![CDATA[Поселения (Arena)]]></item>
+    <item type="str"><![CDATA[Скайрим]]></item>
+    <item type="str"><![CDATA[Локации (Скайрим)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Лес Верним — поселение в провинции Скайрим. Это один из множества населённых пунктов, который может обнаружить главный герой, путешествуя по Тамриэлю. Из близлежащих поселений можно отметить Рейх Коригейт, расположенный на юго-западе, деревню Паргран, расположенную на западе, и Драконий Лес, расположенный на севере.]]></text>
+</doc>

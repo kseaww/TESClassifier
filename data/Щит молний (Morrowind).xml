@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A9%D0%B8%D1%82_%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D0%B9_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Щит молний (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Щит молний (ориг. Lightning Shield) — магический эффект в игре The Elder Scrolls III: Morrowind.
+Описание
+Это заклинание даёт эффект сопротивления электричеству. К тому же враги вокруг заклинателя будут получать урон в расчёте — единица урона на 10 единиц силы заклинания.
+Источники эффекта
+Заклинания
+Свитки
+Свиток Штормовой Защиты.
+Зелья
+Уценённый щит молний;
+Дешёвый щит молний;
+Стандартный щит молний;
+Качественный щит молний;
+Эксклюзивный щит молний.
+Связанные эффекты
+Урон электричеством;
+Сопротивление электричеству;
+Слабость к электричеству;
+Преграда;
+Огненный щит;
+Ледяной щит.
+Алхимические эффекты
+Корень пробочника;
+Крабовое мясо;
+Обрезки металла.]]></text>
+</doc>

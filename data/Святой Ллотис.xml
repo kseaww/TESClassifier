@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%9B%D0%BB%D0%BE%D1%82%D0%B8%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Святой Ллотис]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Святые (Morrowind)]]></item>
+    <item type="str"><![CDATA[Храм Трибунала]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Святой Ллотис Благочестивый — один из немногих святых в провинции Морровинд. Покровитель Портных и Красильщиков. Его святилище можно найти во всех храмах в Вварденфелле и в некоторых гробницах.
+Биография
+Живущий в одну эпоху с Трибуналом, являющийся их компаньоном, любимый Альма Рула Храма Трибунала, он сформулировал основные ритуалы и принципы Веры Нового Храма. Святой Ллотис — это символический мост между богами и верными им священниками.
+Примечание
+Упоминается в книге "Жития Святых".
+…Если вам близка почтительность, следуйте дорогой Святого Ллотиса Благочестивого…
+—  Жития Святых]]></text>
+</doc>

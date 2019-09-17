@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D1%91%D1%80%D1%8B%D1%88%D0%BA%D0%BE_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Пёрышко (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Пёрышко (ориг. Feather) — магический эффект в игре The Elder Scrolls III: Morrowind.
+Описание
+Уменьшает вес предметов в инвентаре персонажа, что позволяет ему переносить больше. Соответственно, запас сил будет расходоваться медленнее.
+Источники эффекта
+Заклинания
+
+Свитки
+Свиток Пера Сойки Ульмса.
+Зелья
+Уценённое зелье пера.
+Дешёвое зелье пера.
+Качественное зелье пера.
+Эксклюзивное зелье пера.
+Связанные эффекты
+Обуза;
+Повышение: Сила.
+Алхимические ингредиенты
+Рубин;
+Вереск;
+Скаттл.]]></text>
+</doc>

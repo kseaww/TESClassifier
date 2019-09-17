@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%90%D0%BB%D1%8C%D0%B4_%D0%A1%D0%BA%D0%B0%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Альд Скар]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Morrowind)]]></item>
+    <item type="str"><![CDATA[Таверны]]></item>
+    <item type="str"><![CDATA[Таверны (Morrowind)]]></item>
+    <item type="str"><![CDATA[Локации (Альд'рун (Morrowind))]]></item>
+    <item type="str"><![CDATA[Локации (Альд'рун)]]></item>
+    <item type="str"><![CDATA[Альд'рун]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Это более респектабельное место, чем „Крыса в Котелке“ или Клуб Совета
+— Кай Косадес
+Описание
+Альд Скар — это вторая по размеру таверна в городе Альд'рун, владельцем которой является Бодери Фарано. Расположена недалеко от поместий глав Дома Редоран. Состоит из двух этажей. На верхнем этаже находится стойка бармена и несколько посетителей. На нижнем можно встретить вора по имени Хассур Зайнсубани.
+Персонажи
+Находки
+Квесты
+«Информация от Зайнсубани» — получить сведения об эшлендерах и культе Нереварина.
+«Ключ Шашева» — убить соперника Сирилонве.
+«Крепость» — убедить Фатусу Гирети переселиться в новую крепость.
+«Ханнат Зайнсубани» — спасти сына Хассура.]]></text>
+</doc>

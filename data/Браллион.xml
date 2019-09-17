@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D1%80%D0%B0%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Браллион]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Босмеры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Босмеры]]></item>
+    <item type="str"><![CDATA[Персонажи (Садрит Мора)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Браллион (ориг. Brallion) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Браллион — босмер-работорговец, проживающий в городе Садрит Мора. Весь день стоит на рынке рабов. После квеста Гильдии воров Браллион уйдёт в гостиницу «Дыра в стене Фары».
+Инвентарь
+Браллион носит дорогую рубашку, дорогие туфли и простые штаны. Также имеет при себе три изящных кольца, одно из которых именное, и зачарованный амулет. Вооружён булавой электрического разряда. Золота нет.
+Характеристики
+Кроме расовых босмерских, другими талантами не обладает.
+Квесты
+«Кольцо Браллиона» — добыть именное кольцо босмера. Можно как договориться с ним, так и выкрасть.]]></text>
+</doc>

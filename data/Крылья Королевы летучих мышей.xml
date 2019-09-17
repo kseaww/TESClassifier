@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D1%80%D1%8B%D0%BB%D1%8C%D1%8F_%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%8B_%D0%BB%D0%B5%D1%82%D1%83%D1%87%D0%B8%D1%85_%D0%BC%D1%8B%D1%88%D0%B5%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Крылья Королевы летучих мышей]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Двуручное оружие]]></item>
+    <item type="str"><![CDATA[Двуручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Секиры]]></item>
+    <item type="str"><![CDATA[Секиры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Нереализованный контент]]></item>
+    <item type="str"><![CDATA[Нереализованный контент (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Крылья Королевы летучих мышей (ориг. Wings of the Queen of Bats) — секира, артефакт, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Крылья Королевы летучих мышей — уникальная секира, недоступная в оригинальной игре, но присутствующая в игровых ресурсах. Получить её можно только с помощью консольной команды player->additem axe_queen_of_bats_unique 1.
+По какой причине это оружие было вырезано из игры, непонятно. Возможно, здесь мы имеем дело с незаконченным квестом. Как бы то ни было, существует несколько любительских модов, возвращающих секиру в игру.
+Характеристики
+Секира, двуручная:
+Рубящий удар: 1–44
+Режущий удар: 1–33
+Колющий удар: 1–4
+Скорость атаки: 1.25
+Радиус поражения: 1.00
+Эффект
+Уменьшение здоровья: 1–10 пп. на 30 с. при ударе
+Заряд / расход энергии = 500 / 50 = 10 ударов.
+Примечание
+Ниже приведена ссылка на плагин для The Elder Scrolls III: Morrowind, возвращающий данный артефакт в игру: Крылья Королевы летучих мышей.]]></text>
+</doc>

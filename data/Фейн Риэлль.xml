@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A4%D0%B5%D0%B9%D0%BD_%D0%A0%D0%B8%D1%8D%D0%BB%D0%BB%D1%8C]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фейн Риэлль]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Гильдия воров]]></item>
+    <item type="str"><![CDATA[Гильдия воров (Morrowind)]]></item>
+    <item type="str"><![CDATA[Учителя навыков]]></item>
+    <item type="str"><![CDATA[Учителя навыков (Morrowind)]]></item>
+    <item type="str"><![CDATA[Торговцы]]></item>
+    <item type="str"><![CDATA[Торговцы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Бретоны (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Бретоны]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Фейн Риэлль (ориг. Phane Rielle) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Фейн Риэлль — бретон, находящийся в трактире «Южная стена» в юго-восточной части города Балмора. Член Гильдии воров в ранге «Мокроух».
+Является учителем навыков «Торговля» (до 44), «Красноречие» (до 44) и «Алхимия» (до 41). Не выдаёт никаких квестов и не участвует в них. Если герой является членом Гильдии воров, то Фейн может снять с него все штрафы, начисленные за совершённые правонарушения, нужно лишь затронуть в разговоре с бретоном тему «цена за твою голову». Торгует книгами, сумма денег для торговли — 150 золотых.
+Инвентарь
+Фейн носит простые ботинки, дорогие перчатки, изящные панталоны и сорочку. Не вооружён. У Фейна есть несколько книг для продажи: «Путеводитель по Балморе» и «Путеводитель по Альд'руну», а также четыре случайные книги.
+Характеристики
+Как и все бретоны, Фейн имеет сопротивление магии, может повышать магию и создать магический щит. Других заклинаний не знает.]]></text>
+</doc>

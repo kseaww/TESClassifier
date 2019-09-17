@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A5%D1%80%D0%B0%D0%BC%D1%8B_%D0%91%D0%BE%D0%B3%D0%BE%D0%B2_(Daggerfall)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Храмы Богов (Daggerfall)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Квесты (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Побочные Квесты (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[В регионе процветают религии восьми божеств, и у каждого есть масса храмов в городах и за их пределами. Можно вступить только в один из них. Разные храмы несколько отличаются набором умений и некоторыми особенностями, смысл которых, впрочем, один — храмы пытаются заменить Гильдию магов тем, у кого не хватает умения в неё вступить. Одни божества позволяют своим последователям создавать магические напитки из ингредиентов, другие, посмелее, дают настоящие заклинания, третьи торгуют магическими предметами. Всё это можно без хлопот получить у магов. Кроме того, жрецы бесплатно лечат свою паству от ран и болезней.
+Квестов у них немало, и обычно они не уступают по кровожадности заданиям Тёмного Братства — здесь убить нечестивого еретика, там — богохульную ведьму, и так далее.
+Квесты для не членов храма
+«The best way to get in good with the temple is to heal someone…» или «…I might be able to speak favorably of you if you were to find a way to cure someone I know…»
+(любая репутация)
+Нужно вылечить больного человека. Поспрашивайте людей в городе, чтобы узнать имя алхимика. Идите к нему, заплатите 20 золотых за лекарство и доставьте его к больному.
+«…A house over in <town> is being haunted by some sort of undead…»
+(любая репутация)
+Нужно пойти в нужный дом в указанном городе и убить там нежить. Обычно это призрак.
+«…A brazen thief stole a <item> from the temple…»
+(любая репутация):
+Нужно найти и убить вора и вернуть украденный предмет в храм. Чтобы найти вора, поспрашивайте о нём людей на улицах. Иногда вам могут дать неверные координаты.
+«Blessings upon you, <PC>, even though you are a heathen and do not patronize our temple…»
+(любая репутация)
+Нужно доставить религиозный предмет. По пути на вас нападут один или два врага.
+Квесты для членов храмаПравить
+«A house over in <town> is being haunted by some sort of undead…»
+(любая репутация):
+Квест, аналогичный квесту для не членов храма.
+«…You may have heard of <prophet>…» или «It falls upon us to investigate the claims of <prophet>…»
+(любая репутация):
+Сохраните игру после получения этого квеста. Следуйте полученным инструкциям. Иногда вам придётся заниматься исследованием подземелий, иногда нет.
+«Would you be willing to assist in an exorcism…» или «…a local knight, has entreated us to help his ward, who has been showing signs of daedric possession…»
+(любая репутация)
+Нужно изгнать дух даэдра из одержимого. Поговорите с охранником и опекуном перед тем, как взять предмет у священника. Если это реальная одержимость, после передачи предмета одержимому появится даэдрот. Если одержимость поддельная, даэдрот не появится, а лже-одержимый сбежит. Тогда нужно будет вернуться в таверну, в которой вы разговаривали с опекуном (его там уже не будет), и поговорить с проституткой — за небольшое вознаграждение она сообщит текущее местоположение мошенника. Вам нужно будет убить охранника, чтобы забрать предмет обратно.
+«…one of our clerics…has disappeared while on an archeological dig…» или «…I fear that one of our noblest scholars…has disappeared…»
+(любая репутация)
+Нужно найти пропавшего храмовника. Стандартное исследование подземелий.
+«…one of our priests has gone off his nut…» или «…Could be that he got into <temple> wine cellars again…»
+(любая репутация)
+Нужно образумить одного из храмовников. Найдите его и ударьте (но не убивайте). Стандартное исследование подземелий.
+«…I have a dangerous mission for you. I will tell you up front it involves slaying a rather powerful undead creature…»
+(любая репутация)
+Нужно найти и убить нежить. Иногда это приходиться делать дважды, так как квестодатель не всегда говорит, что нужно освятить святую воду у ещё одного священника. Стандартное исследование подземелий.
+«…The temple has come into the possession of an evil, magical weapon long sought by the orcs…»
+(репутация 10 или больше)
+Нужно очистить храм. Стандартное исследование подземелий. Всё время выполнения квеста на вас будут нападать орки. Если вы не уложитесь в отведённое время, вас оштрафуют.
+«They tell me that you are quite loyal to the temple. I need you to perform a vital task for us…»
+(репутация 10 или больше) и (репутация 20 или больше)
+Одинаковые квесты. Нужно найти и принести ингредиент. Стандартное исследование подземелий.
+«…<temple> needs you to run an errand for us…»
+(репутация 10 или больше)
+Нужно доставить религиозный предмет. Квест, аналогичный квесту для не членов храма.
+«…<temple> needs you for a dangerous mission to retrieve one of the lost <items> of <god>…»
+(репутация 10 или больше)
+Нужно найти и убить лича. Стандартное исследование подземелий. В награду за выполнение квеста вы получите магический предмет.
+«…<god> has prophesied a great evil growing in the heart of a nearby dungeon…»
+(репутация между 30 и 39)
+Нужно найти и убить даэдра-соблазнителя. Стандартное исследование подземелий.
+Квесты, зависящие от выбранного храмаПравить
+Джулианос
+«We have but one rule at the School of Julianos — knowledge is to be shared…»
+(любая репутация)
+Нужно найти и убить Nightblade. Стандартное исследование подземелий.
+Акатош
+«If you are, by chance, looking for work, an easy <number> gold pieces…»
+(любая репутация)
+Стандартное исследование подземелий.
+Аркей
+«…There’s a desecrated temple nearby called <dungeon>…»
+(любая репутация)
+Нужно найти и убить оборотня. Стандартное исследование подземелий.
+Дибелла
+«One of the more important functions of the House of Dibella is the preservation of great works of art…» или «In over four thousand years of high civilization in Tamriel…»
+(любая репутация)
+Нужно забрать у указанного человека икону и принести её обратно. Иногда на вас могут напасть враги.
+Кинарет
+«Our order demands retribution on a former member…» или «The Goddess has spoken to us in our auguries…»
+(любая репутация)
+Стандартное исследование подземелий.
+Мара
+«…would you be prepared to destroy an unclean spirit that is haunting one of our sacred shrines?»
+(любая репутация)
+Нужно найти и убить привидение. Стандартное исследование подземелий.
+Стендарр
+«Our healer needs some sort of a special plant…»
+(любая репутация)
+Нужно забрать у алхимика ингредиент и принести его обратно. За этот квест нет награды.
+Зенитар
+«…It’s a messy little affair, involving punishing a thief…»
+(любая репутация)
+Стандартное исследование подземелий.]]></text>
+</doc>

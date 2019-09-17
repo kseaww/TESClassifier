@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C_%D0%A8%D0%BE%D1%80%D0%B0_(Skyrim)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Камень Шора (Skyrim)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Skyrim]]></item>
+    <item type="str"><![CDATA[Камень Шора]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Skyrim)]]></item>
+    <item type="str"><![CDATA[Деревни]]></item>
+    <item type="str"><![CDATA[Деревни (Skyrim)]]></item>
+    <item type="str"><![CDATA[Рифт]]></item>
+    <item type="str"><![CDATA[Локации (Рифт)]]></item>
+    <item type="str"><![CDATA[Рифт (Skyrim)]]></item>
+    <item type="str"><![CDATA[Локации (Рифт (Skyrim))]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Это поселение легко найти, если идти от Рифтена на север, мимо Форта Гринвол. В деревне есть кузнец Филньяр, у которого есть плавильня; три дома и шахта, в которой можно добыть эбонитовую руду.
+Если Довакин прибудет ночью, он может застать всех жителей поселения у огня, обсуждающими свои проблемы. Разговор с Филньяром начнёт квест по зачистке Красной шахты от пауков; если поговорить с Сульгой, то она попросит доставить сумку с письмами её отцу Вернеру в Чёрный Брод.
+Важные места и жители
+Дом Филньяра
+Филньяр
+Дом Одфела
+Одфел
+Грогмар гро-Бурзаг
+Дом Сульги
+Сульга
+Красная шахта
+Квесты
+«Добыча руды» — продать Грогмару железную руду.
+«Красная шахта» — уничтожить морозных пауков по просьбе Филньяра.
+«Специальная доставка» — доставить кошель Сульги в Чёрный Брод.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%B9_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Заклинания иллюзий (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Заклинания]]></item>
+    <item type="str"><![CDATA[Заклинания (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ниже перечислены все заклинания, которые относятся к школе Иллюзий — включая заклинания из дополнений «Tribunal» и «Bloodmoon», а также заклинания, которые могут быть доступны только при помощи ввода соответствующих консольных команд. Некоторые заклинания могут включать в себя эффекты других школ магии. В каждой из таблиц все доступные для приобретения заклинания отсортированы в порядке возрастания стоимости расхода магии; консольные заклинания отсортированы по алфавиту.]]></text>
+</doc>

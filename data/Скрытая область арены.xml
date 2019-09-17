@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%B0%D1%80%D0%B5%D0%BD%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Скрытая область арены]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/локации (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Необходим план локации!]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Morrowind)]]></item>
+    <item type="str"><![CDATA[Локации (Вивек (Morrowind))]]></item>
+    <item type="str"><![CDATA[Локации (Вивек)]]></item>
+    <item type="str"><![CDATA[Вивек]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Скрытая область арены Вивека является убежищем Мораг Тонг. Попасть в неё можно через cклад арены Вивека, спустившись через запертый люк.
+Здесь можно найти алтарь Мефалы и взять квест у её жреца, данмера по имени Тарос Драл.
+Персонажи
+Эно Хлаалу
+Рогдул гро-Буларз
+Серул Датрен
+Минниби Селкин-Адда
+Ульмеси Барион
+Тарос Драл
+Квесты]]></text>
+</doc>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%97%D0%B5%D0%BB%D1%8C%D1%8F_(Skyrim)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Зелья (Skyrim)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Skyrim]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Skyrim)]]></item>
+    <item type="str"><![CDATA[Предметы (Dawnguard)]]></item>
+    <item type="str"><![CDATA[Зелья]]></item>
+    <item type="str"><![CDATA[Зелья (Skyrim)]]></item>
+    <item type="str"><![CDATA[Зелья (Dawnguard)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Зелья, повышающие навыки
+
+
+
+Зелья бодрости
+Зелья водного дыхания
+Зелья невидимости
+Зелья добавочной магии
+Зелья запаса сил
+Зелья улучшенного запаса сил
+Скума
+Уникальные зелья
+Отравы
+Отравы антимагии
+Отравы упадка сил
+Яды бешенства
+Яды паралича
+Яды страха
+Яды упадка сил
+Зелья здоровья
+Прочие
+Зелья лечения
+Зелья магии
+Зелья сопротивления магии
+Зелья неприятия магии
+Яды антимагии
+Яды невосполнения
+Зелья магических сил
+Зелья силы
+Зелья сопротивления огню
+Зелья сопротивления холоду
+Зелья сопротивления электричеству
+Зелья регенерации
+Зелья неприятия мороза
+Зелья неприятия огня
+Зелья неприятия электричества
+Яды усталости
+Яды]]></text>
+</doc>

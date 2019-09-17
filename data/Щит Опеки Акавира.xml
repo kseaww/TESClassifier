@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A9%D0%B8%D1%82_%D0%9E%D0%BF%D0%B5%D0%BA%D0%B8_%D0%90%D0%BA%D0%B0%D0%B2%D0%B8%D1%80%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Щит Опеки Акавира]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Доспехи]]></item>
+    <item type="str"><![CDATA[Доспехи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Средние доспехи]]></item>
+    <item type="str"><![CDATA[Средние доспехи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Щиты]]></item>
+    <item type="str"><![CDATA[Щиты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Щит Опеки Акавира (ориг. Ward of Akavir) — щит, артефакт, средние доспехи в игре The Elder Scrolls III: Morrowind.
+Описание
+Этот щит, добавляемый официальным плагином The Elder Scrolls III: Siege at Firemoth, был сделан из чешуи дракона и являлся символом чести Имперского легиона, который хранил эту реликвию в течение долгих лет, пока она не была потеряна в районе форта Огненной Бабочки, захваченного неупокоенными скелетами. По слухам, он повышает удачу.
+В 3Е 427 рыцарь Имперского легиона по имени Селлус Гравиус нанял группу авантюристов, чтобы они проникли в разрушенный форт Огненной Бабочки, убили могущественного лича Грарна и вернули щит. Однако доподлинно неизвестно, был ли артефакт когда-либо возвращён Селлусу.]]></text>
+</doc>

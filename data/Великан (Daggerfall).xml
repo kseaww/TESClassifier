@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD_(Daggerfall)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Великан (Daggerfall)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Существа]]></item>
+    <item type="str"><![CDATA[Существа (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Монстры]]></item>
+    <item type="str"><![CDATA[Монстры (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Великан (ориг. Giant) — монстр в игре The Elder Scrolls II: Daggerfall.
+Описание
+Во второй игре серии эти монстры являются людоедами. Великаны Хай Рока не очень высоки, ориентировочно около трёх метров, но имеют толстые массивные фигуры — ширина торса лишь немногим меньше высоты в полный рост. Их можно встретить, выполняя квесты Гильдии бойцов «Свора великанов» и «Убийство великана».
+В ближнем бою наносят серии быстрых ударов. Их можно убить любым типом оружия.]]></text>
+</doc>

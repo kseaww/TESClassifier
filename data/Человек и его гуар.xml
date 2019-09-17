@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D0%B8_%D0%B5%D0%B3%D0%BE_%D0%B3%D1%83%D0%B0%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Человек и его гуар]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Побочные квесты]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Побочные квесты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Morrowind)
+Человек и его гуар (ориг. A Man and His Guar) — сторонний квест в игре The Elder Scrolls III: Morrowind.
+Краткое прохождение
+Встретить неподалеку от Вивека Териса Реледрана и поговорить с ним.
+Сопроводить его к портнихе Агриппине Хереннии в Вивек.
+Поговорить с Терисом Реледраном.
+Прохождение
+На север от Вивека стоит Терис Раледран и его гуар Ролли. Терис попросит сопроводить его к портнихе Агриппине Хереннии, которая проживает в Каналах Квартала Чужеземцев, что в Вивеке. На полпути к Вивеку, на перекрёстке, Терис оставит Ролли ожидать его. Награда за успешное сопровождение составляет 100 дрейков, если гуар погиб по дороге, и 200 дрейков, если гуар выжил.]]></text>
+</doc>

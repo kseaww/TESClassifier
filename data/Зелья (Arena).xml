@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%97%D0%B5%D0%BB%D1%8C%D1%8F_(Arena)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Зелья (Arena)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Зелья]]></item>
+    <item type="str"><![CDATA[Зелья (Arena)]]></item>
+    <item type="str"><![CDATA[Предметы (Arena)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Герой может достать любое зелье в Гильдии магов. Иногда можно найти зелья среди сокровищ, но такие случаи редки.
+Список зелий:
+Чтобы воспользоваться зельем, необходимо щёлкнуть по иконке «Использовать Магический Предмет» (Use Magic Item) или нажать клавишу «U», после чего дважды щёлкнуть по интересующему зелью, найдя его в списке в правом нижнем углу экрана.
+В отличие от остальных игр серии, в этой нельзя создавать свои зелья.]]></text>
+</doc>

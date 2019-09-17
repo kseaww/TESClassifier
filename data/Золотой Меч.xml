@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%9C%D0%B5%D1%87]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Золотой Меч]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Клинки навык]]></item>
+    <item type="str"><![CDATA[Клинки навык (Oblivion)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Предметы (Oblivion)]]></item>
+    <item type="str"><![CDATA[Оружие (Oblivion)]]></item>
+    <item type="str"><![CDATA[(Oblivion)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[(Morrowind)]]></item>
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[[[Категория:]]]]></text>
+</doc>

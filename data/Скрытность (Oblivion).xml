@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Скрытность (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Скрытность (ориг. Sneak) — навык из игры The Elder Scrolls IV: Oblivion, остро необходимый ворам.
+Описание
+Позволяет успешно прятаться от врагов, а также отвечает за бесшумное перемещение, необходимое для проведения скрытых диверсий, карманных краж или для проведения неожиданных и очень мощных атак.
+Управляющий атрибут: Ловкость.
+Уровни развития
+Учителя навыка]]></text>
+</doc>

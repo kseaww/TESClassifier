@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9E%D1%80%D1%81%D0%B8%D0%BD%D0%B8%D1%83%D0%BC]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Орсиниум]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Многозначные термины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Орсиниум (Lore) — статья о городе-государстве во вселенной The Elder Scrolls
+Орсиниум (Orsinium) — статья о городе в дополнении The Elder Scrolls Online: Orsinium
+Орсиниум (Daggerfall) — статья о городе-государстве в игре The Elder Scrolls II: Daggerfall
+Орсиниум (квест) — квест главной сюжетной линии в игре The Elder Scrolls II: Daggerfall]]></text>
+</doc>

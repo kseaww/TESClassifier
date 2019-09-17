@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Серебряное оружие (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Серебряное оружие — одна из нескольких разновидностей оружия, представленных в The Elder Scrolls III: Morrowind.
+ОписаниеПравить
+Серебро обычно используется для украшения изделия или повышения его эффективности против таких существ, как нежить и оборотни.
+Кузнец Гаротмук гро-Музгуб может рассказать посетителям о своем методе изготовления серебряного оружия: «Высококачественная сталь покрывается серебром из-за тайных свойств этого драгоценного метала». К сожалению другие кузницы своих методов не раскрывают.]]></text>
+</doc>

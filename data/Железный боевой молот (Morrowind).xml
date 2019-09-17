@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BB%D0%BE%D1%82_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Железный боевой молот (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Двуручное оружие]]></item>
+    <item type="str"><![CDATA[Двуручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Молоты]]></item>
+    <item type="str"><![CDATA[Молоты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Железный боевой молот (ориг. Iron Warhammer) — молот, дробящее оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Железный молот — дробящее двуручное оружие паршивой ковки, созданное из железа.
+Характеристики
+Объём зачарования: 5,5
+Длина: 1,50
+Скорость атаки: 1,00
+Местонахождение
+Альд Редайния, Башня.
+Балмора, Север западной сторожевой башни и Восточная Сторожевая башня.
+Горький берег (-6,3) (-6,-6).
+Форт Пёстрой Бабочки (-2,5).
+Кальдера, Зал Правительства.
+Замок Эбенгард.
+Поместье Индарис.
+Маар Ган, Хижина Ташпи Ашибаель.
+Форт Лунной Бабочки.
+Родовая гробница Сандусов.
+Суран, Поместье Оран.
+Зебаби.]]></text>
+</doc>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%B0%D1%80%D0%B5%D0%BB%D1%8C]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Кариарель]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Гильдия воров]]></item>
+    <item type="str"><![CDATA[Гильдия воров (Morrowind)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Альтмеры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Альтмеры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Кариарель (ориг. Caryarel) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Кариарель — вор из Гильдии воров, недавно прошедший курс лечения в Эбенгарде. Его можно найти, нервно прохаживающимся, около своего дома у пристани.
+Кариарель совершенно не желает разговаривать с Нереварином об Алебастровой чаше, которая была украдена недавно из часовни Имперского Культа. Даже предъявление ему Чаши, найденной Нереварином в его доме, не производит на Кариареля никакого впечатления.]]></text>
+</doc>

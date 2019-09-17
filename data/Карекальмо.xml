@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B0%D1%80%D0%B5%D0%BA%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Карекальмо]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Альтмеры (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Альтмеры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Карекальмо (ориг. Carecalmo) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Карекальмо — альтмер-маг, проживающий в Ашалмимилкале. Помимо Ситиса, он также поклоняется Даэдрическому Принцу Мерунесу Дагону. Он помогает Тёмному Братству (но не является их членом), чем вызвал недовольство Мораг Тонг. Возможно, именно поэтому у него есть телохранитель альтмер Мериаран.
+Инвентарь
+Карекальмо одет в дорогую мантию и ботинки, носит дорогие амулет и кольцо, а также Пояс Военного искусства Сангвина, уровневый зачарованный амулет. Имеет в инвентаре уровневое зелье.
+Квесты
+Мораг Тонг
+«Ультиматум Карекальмо» — предъявить ультиматум альтмеру Карекальмо.
+«Нити Прядильщицы» — найти и вернуть Эно Хлаалу 27 Нитей Прядильцы.
+Имперский культ
+«Свиток Яростного Огня» — отомстить двум убийцам и вернуть cвиток.]]></text>
+</doc>

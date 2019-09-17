@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%90%D0%BA%D1%80%D0%BE%D0%B1%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Акробатика (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Навыки (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Акробатика (ориг. Acrobatics) — один из навыков группы вора в игре The Elder Scrolls III: Morrowind. Навык акробатики зависит от уровня атрибута «Сила».
+Навык акробатики позволяет совершать длинные прыжки и приземляться без ущерба с большой высоты. Ловкие акробаты способны забираться в места, недоступные прочим, а также управлять телом в падении.
+Развитие навыка
+Прыжок: 0.15
+Падение: 3.00
+Бонусы при создании
+Расы
++15 Каджит
++5 Босмер
+Классы
+Акробат
+Ассасин
+Бард
+Вор
+Монах
+Шпион
+Варвар
+Фракции
+Гильдия Воров
+Клан Аунда (вампирский клан)
+Клан Берне (вампирский клан)
+Клан Куарра (вампирский клан)
+Мораг Тонг
+Учителя
+Учебники]]></text>
+</doc>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A4%D1%80%D0%B0%D0%BB%D1%8C%D0%B4_%D0%91%D0%B5%D0%BB%D1%8B%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фральд Белый]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Эбенгард]]></item>
+    <item type="str"><![CDATA[Имперский легион]]></item>
+    <item type="str"><![CDATA[Имперский легион (Morrowind)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Норды (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Норды]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Фральд Белый (ориг. Frald the White) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Фральд Белый — норд-воин. Служит в Имперском легионе в ранге «Рыцарь Протектор». Его можно найти в Гарнизоне Легиона Хищной Бабочки в Эбенгарде. Выдаёт несколько заданий Имперского легиона.
+Инвентарь
+Фральд носит имперскую темпларскую кирасу, наплечники, наручи, поножи и простые сапоги. Имеет случайное количество золотых. Вооружён имперским палашом.
+Квесты
+«Поединок в остроумии и поэзии» — вступиться за честь Легиона в состязании с Вечным Стражем из Призрачного Предела.
+«Хонтйольф — предатель» — убить бывшего легионера Хонтйольфа.
+«Клевета ординатора» — убить ординатора в Вивеке, который распространяет клевету о Легионе.
+«Поиск убийцы» — найти Саприуса Энтиуса и привести Фральду.]]></text>
+</doc>

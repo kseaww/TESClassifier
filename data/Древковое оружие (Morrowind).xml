@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Древковое оружие (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Древковое оружие (ориг. Spear) — один из навыков группы воина в игре The Elder Scrolls III: Morrowind. Навык зависит от параметра выносливости.
+Навык владения древковым оружием позволяет эффективно использовать колющее оружие с древком, такое как копья или алебарды.
+Прокачка навыка
+Успешная атака: + 1.00
+Бонусы при создании
+Расы
++5 Аргониане
++5 Норды
+Классы
+Игровой класс отсутствует
+Акробат
+Лучник
+Воин
+Фракции
+Дом Редоран
+Имперский легион
+Эшлендеры
+Учителя навыка
+Учебники
+«2920, Месяц Первого зерна (т. 3)»
+«36 Уроков Вивека, Проповедь 14»
+«36 Уроков Вивека, Проповедь 24»
+«36 Уроков Вивека, Проповедь 35»
+«Остров контрабандиста»]]></text>
+</doc>

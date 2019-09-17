@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B2%D0%B5%D1%81%D1%82%D1%8B_(Daggerfall)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Квесты (Daggerfall)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/квесты (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Daggerfall]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основной Квест
+Основной квест условно делится на три части:
+Квесты Гильдий и Фракций
+Гильдия Бойцов;
+Гильдия Магов;
+Темное Братство;
+Гильдия Воров;
+Рыцарские Ордена;
+Храмы Богов.
+Побочные Квесты
+Квесты трактирщиков и торговцев;
+Квесты аристократов;
+Квесты ведьминского ковена.]]></text>
+</doc>

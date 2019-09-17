@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%B0%D1%88%D0%BD%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B9_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Рукопашный бой (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+    <item type="str"><![CDATA[Навыки (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Рукопашный бой (ориг. Hand-to-Hand) — один из навыков воина в игре The Elder Scrolls IV: Oblivion.
+Главный атрибут — Сила.
+Отвечает за урон в бою без использования оружия и специальные атаки. Помимо урона здоровью отнимает запас сил. Соотношение запаса сил и здоровья, отнимаемых при ударе, примерно 3 к 1. Такой расклад повреждений упрощает бой с одним противником, но усложняет бой с группой. При использовании перчаток от тяжёлого доспеха урон повышается.
+Уровни развития
+Учителя
+Учебники
+Достоинства
+Недостатки]]></text>
+</doc>

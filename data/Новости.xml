@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%91%D0%BB%D0%BE%D0%B3:%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Новости]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Новости]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[На этой странице перечислены новости размещенные на вики.
+Любой может создавать новости, которые связаны с The Elder Scrolls V: Skyrim.
+Чтобы написать новость создайте страницу в блоге и добавте её в Категорию:Новости
+Чтобы посмотреть последние новости и комментарии, возможно, потребуется обновить кэш
+Текущие новостиПравить]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D1%83%D1%85_%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дух предков]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Незавершенные статьи/существа (Morrowind)]]></item>
+    <item type="str"><![CDATA[Незавершенные статьи]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Существа]]></item>
+    <item type="str"><![CDATA[Существа (Morrowind)]]></item>
+    <item type="str"><![CDATA[Нежить]]></item>
+    <item type="str"><![CDATA[Нежить (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дух предка (ориг. Ancestor Ghost) — нежить в игре The Elder Scrolls III: Morrowind.
+Описание
+Типичный представитель призраков в Морровинде. Обитает в древних захоронениях данмеров, но может также быть вызван магом. Так же, как и остальные призрачные существа, уязвим к серебру или более качественным и дорогим материалам. Довольно большой урон Духу предка может нанести магия огня. После уничтожения от них остаётся эктоплазма.]]></text>
+</doc>

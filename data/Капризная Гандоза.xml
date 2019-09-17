@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%8F_%D0%93%D0%B0%D0%BD%D0%B4%D0%BE%D0%B7%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Капризная Гандоза]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Квесты]]></item>
+    <item type="str"><![CDATA[Квесты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квесты (Гильдия воров (Morrowind))]]></item>
+    <item type="str"><![CDATA[Гильдия воров (Morrowind)]]></item>
+    <item type="str"><![CDATA[Квесты (Гильдия воров)]]></item>
+    <item type="str"><![CDATA[Гильдия воров]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основная статья: Квесты (Morrowind)
+Капризная Гандоза (ориг. Naughty Gandosa) — квест фракции Гильдия воров в игре The Elder Scrolls III: Morrowind.
+Описание
+Третий квест, который дает члену Гильдии Воров Аэнгот Ювелир. Он просит принести ему книгу "В постели с Боэтой" из спальни Гандозы Аробар, для клиента Гильдии, которому нужен компромат на семью Аробар. Спальня находится в поместье, необходимо пройти вход, помещения стражи и личные покои, спальня Гандозы находится справа от входа из личных покоев. Сундук с книгой заперт и защищен ловушкой.
+Если при взятии квеста у вас уже есть при себе экземпляр этой книги, Аэнгот спросит, из поместья Аробар она или нет, и при отрицательном ответе откажется принимать книгу.
+Награда за квест — амулет обширного безмолвия (эффект при использовании — безмолвие на 10 секунд на удаленную цель) и Кольцо хамелеона (эффект при использовании — хамелеон 10 % на себя, на 10 секунд).]]></text>
+</doc>

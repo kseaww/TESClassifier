@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B0%D0%BD_%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D0%B8%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Клан Монталион]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Кланы вампиров]]></item>
+    <item type="str"><![CDATA[Кланы вампиров залива Илиак]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Клан Монталион — один из вампирских родов залива Илиак. Члены рода могут лечить паралич, а также обладают способностью к телепортации. Монталион контролирует большую часть устья реки Бьюлси и такие регионы, как Вэйрест, Бориан, Гаваудон, Сатакалаам, Лайнлин и Морнот. Монталион враждует с другим вампирским родом — Селену. Неизвестный автор книги «Вампиры залива Илиак» когда-то был членом рода Монталион. Некрополь Моталион хоть и имеет похожее название, но никоим образом не связан с родом Монталион.]]></text>
+</doc>

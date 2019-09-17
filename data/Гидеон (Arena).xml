@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%93%D0%B8%D0%B4%D0%B5%D0%BE%D0%BD_(Arena)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гидеон (Arena)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Необходим план города!]]></item>
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Arena)]]></item>
+    <item type="str"><![CDATA[Города]]></item>
+    <item type="str"><![CDATA[Города (Arena)]]></item>
+    <item type="str"><![CDATA[Гидеон]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[География]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гидеон (ориг. Gideon) — город в игре The Elder Scrolls: Arena.
+Описание
+Гидеон — крупный город на западе Чернотопья близ границы с Сиродилом. Город окружают многочисленные плантации. Гидеон — один из двух городов Чернотопья, построенных на месте айлейдских поселений, второй такой — Штормхолд. В конце Первой эры в замке города была заключена последняя императрица Второй империи Сиродила.
+Во время «шествия» Умбриэля в 4Э 40, город был атакован армией нежити.]]></text>
+</doc>

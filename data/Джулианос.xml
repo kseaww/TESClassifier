@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D0%B0%D0%BD%D0%BE%D1%81]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Джулианос]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Девять Божеств]]></item>
+    <item type="str"><![CDATA[Аэдра]]></item>
+    <item type="str"><![CDATA[Божества]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[Планеты]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Юлианос или Джулианос — Бог Мудрости и Логики — бог, часто объединяемый с Джуналом, отцом языка и математики у нордов. Джулианос — бог литературы, закона, истории и противоречия в Сиродиле. Культ Мотылька Предка, хранящий Древние свитки, основан в его честь.
+Заповедь Джулианоса гласит: "Познавайте истину. Соблюдайте закон. В затруднении, ищите совета мудрых".
+Аналоги в других пантеонах: Юлианос (бретоны), Джунал (норды)]]></text>
+</doc>

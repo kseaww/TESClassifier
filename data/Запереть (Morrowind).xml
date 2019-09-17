@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BF%D0%B5%D1%80%D0%B5%D1%82%D1%8C_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Запереть (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты]]></item>
+    <item type="str"><![CDATA[Защитные магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Магия (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Запереть (ориг. Lock) — магический эффект в игре The Elder Scrolls III: Morrowind.
+Описание
+Этим эффектом заклинатель способен запечатать контейнер или дверь. Мощность эффекта заклинания превращается в уровень замка, который помещается на запечатываемый объект. У этого эффекта нет конечной длительности — замок остаётся закрытым, пока не будет открыт ключом, отмычкой или же заклинанием.
+Источники эффекта
+Заклинания
+Свитки
+Свиток Печати Галмеса
+Связанные эффекты
+Открыть]]></text>
+</doc>

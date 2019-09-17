@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/The_Elder_Scrolls_IV:_Thieves_Den]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[The Elder Scrolls IV: Thieves Den]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[The Elder Scrolls]]></item>
+    <item type="str"><![CDATA[The Thieves Den]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Дополнения]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[The Elder Scrolls IV: Thieves Den (дословно: Древние свитки IV: Воровской притон) — небольшое официальное дополнение к игре The Elder Scrolls IV: Oblivion. Выпускалось на отдельных дисках вместе с первым крупным дополнением The Elder Scrolls IV: Knights of the Nine и было одним из семи мелких официальных плагинов, в такой комплектации было локализовано в России фирмой 1С. В «Золотое Издание» Oblivion не вошло, однако его можно скачать с полной русской озвучкой и переводом.
+Описание
+Дополнение, разработанное специально для стелс-ориентированных персонажей, позволит вам раскрыть тайну знаменитого пиратского корабля и стать его капитаном. О самом корабле вы узнаете из слухов. Сумеречная пещера ждёт вас.
+Особенности
+Полностью прорисованное окружение — исследуйте и владейте.
+Спальня. Вам не придется платить за койку в гостинице.
+Пять видов «апгрейда» для вашего нового дома.
+Пригласите торговцев, чей ассортимент товаров понравится ворам, разбойникам и ассасинам.
+По мере улучшения вашего жилища к команде присоединятся новые пираты, что будет способствовать и росту вашего собственного благосостояния.
+Более 45 новых предметов.
+15 новых заклинаний.]]></text>
+</doc>

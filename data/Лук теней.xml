@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D1%83%D0%BA_%D1%82%D0%B5%D0%BD%D0%B5%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лук теней]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Стрельба]]></item>
+    <item type="str"><![CDATA[Стрельба (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Луки]]></item>
+    <item type="str"><![CDATA[Луки (Morrowind)]]></item>
+    <item type="str"><![CDATA[Даэдрические артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Даэдрические артефакты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Артефакты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лук теней (ориг. Bow of Shadows) — лук, даэдрический артефакт, в игре The Elder Scrolls III: Morrowind.
+Описание
+Это легендарное оружие, принадлежащее Принцессе Даэдра Ноктюрнал. Легендарный рейнджер Раэрлас Гайл получил этот лук для выполнения какого-то секретного задания. Задание он провалил, а лук был утерян. Раэрлас недёшево продал свою жизнь и с помощью этого лука забрал с собой в могилу множество врагов. Этот лук даёт носителю возможность становиться невидимым и увеличивает его скорость. С тех пор появилось множество свидетельств о появлениях Лука Теней. Говорят, например, что им владел Драм — зловещий тёмный эльф-ассасин Второй эры. 
+Чары
+Невидимость: на 30 с. на себя при использовании;
+Увеличение скорости: 20–30 ед. на 30 с. на себя при использовании.
+Количество применений до истощения чар: 340 ÷ 68 = 5.
+Местонахождение
+Этот лук находится в родовой гробнице Венимов, которая расположена к северу от лагеря Зайнаб и к юго-востоку от Нчулефта. Лежит на столе, что рядом с хозяином — данмером-некромантом Горисом Королём Личинок.]]></text>
+</doc>

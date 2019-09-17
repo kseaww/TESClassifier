@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B0%D0%BD_%D0%A4%D1%80%D0%B0%D1%84%D0%B5%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Клан Фрафей]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Фракции]]></item>
+    <item type="str"><![CDATA[Фракции (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Клан Фрафей (Трафей)]]></item>
+    <item type="str"><![CDATA[Кланы вампиров]]></item>
+    <item type="str"><![CDATA[Кланы вампиров залива Илиак]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Смерть не всегда вечна. Для некоторых это просто время ожидания. Теперь это ваше время ожидания. Будьте терпеливы, и всё будет раскрыто…
+— Девиз клана
+Описание
+Клан Фрафей или Трафей — один из родов вампиров залива Илиак. Члены клана обладали способностью заживлять раны. Трафей доминировал в Хай Роке, особенно в таких регионах, как Даэния, Двиннен, Йкалон и Урваиус. Являются заклятым врагами рода Антотис.
+Известно, что клан Трафей заключил союз с вампирским родом Врасет.]]></text>
+</doc>

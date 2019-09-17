@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D1%8B_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Магические эффекты (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Магия (Oblivion)]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эта страница содержит список всех магических эффектов, которые есть в The Elder Scrolls IV: Oblivion. В большинстве случаев эти эффекты могут появиться разными способами, например: при выпивании зелья, при съедании одного из алхимических ингредиентов, при использовании свитка, зачарованного оружия или заклинания и так далее.
+Классификация эффектов
+По влиянию: на негативные и положительные.
+По типу: наступательные, защитные, восстанавливающие и другие.
+По источнику: ингредиент, заклинание, зелье, свиток, Сигильский камень, зачарование.
+Таблица эффектов]]></text>
+</doc>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A0%D0%B8%D0%B0_%D0%A1%D0%B8%D0%BB%D1%8C%D0%BC%D0%B5%D0%B9%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Риа Сильмейн]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Arena)]]></item>
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Женщины (Arena)]]></item>
+    <item type="str"><![CDATA[Имперцы (Arena)]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Имперцы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Риа Сильмейн (ориг. Ria Silmane) — персонаж в игре The Elder Scrolls: Arena.
+Биография
+Риа Сильмейн — ученица боевого мага Джагара Тарна. Когда Тарн узурпировал трон в 3Э 389, Риа отказалась встать на его сторону и попыталась предупредить Совет старейшин, однако прежде чем смогла это сделать, была убита Тарном. Дух Рии помогает безымянному герою справиться с магом. Её сил недостаточно, чтобы материализоваться физически, поэтому она является герою в его сновидениях.
+Примечание
+Сама Риа Сильмейн заявляет, что была казнена Тарном с помощью посоха Хаоса, но в игре Тарн изображён как убивающий Рию каким-то заклинанием, которое сотворяет сам.]]></text>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B0%D1%80%D0%B1%D0%B0%D0%BB%D0%B5%D1%82_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Стальной арбалет (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Стрельба]]></item>
+    <item type="str"><![CDATA[Стрельба (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Арбалеты]]></item>
+    <item type="str"><![CDATA[Арбалеты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Стальной арбалет (ориг. Steel Crossbow) — арбалет, стрелковое оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Стальной арбалет — достаточно дешевое и распространенное стрелковое оружие на просторах Вварденфелла. Для стрельбы использует не стрелы, а болты — специальные боеприпасы, которые толще и короче обычных стрел. Арбалет, как правило, превосходит луки по точности стрельбы и убойной силе, но проигрывает по скорострельности.
+Характеристики
+Объём зачарования: 5
+Скорость атаки: 1,00
+Местонахождение
+Форт Лунной Бабочки, Внутренние помещения.
+Садрит Мора.
+Шушиши.]]></text>
+</doc>

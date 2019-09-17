@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B2%D0%B5%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D1%87_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Двемерский короткий меч (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+    <item type="str"><![CDATA[Мечи (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гномский короткий меч (ориг. Dwarven Shortsword) — меч, короткий клинок в игре The Elder Scrolls III: Morrowind.
+Описание
+Гномский короткий меч — короткое одноручное оружие, созданное из металла, секрет изготовления которого утерян. Имеет тускло-жёлтый цвет (ранее золотой).
+Характеристики
+Скорость атаки: 2,00
+Длина: 1,00
+Объём зачарования: 4
+Местонахождение
+Этот меч можно найти в таких локациях:
+Веминал, Внешняя крепость;
+Тель Вос, Центральная башня;
+Бамз-Амсшенд, Аллея короля;Tr
+Бамз-Амсшенд, Зал ветров.Tr
+В качестве оружия его используют:
+Атин Сарети;
+Гильсе Дарети;
+Руцция Конициан;
+Совиза Адас;
+Эстинан.
+Купить такой меч можно только у одного торговца — Аренары, члена клана Берне. Впрочем, можно просто убить вампиршу и изъять меч из её сундука в качестве трофея.
+Также довольно часто встречается в качестве случайного содержимого сундуков по всему Морровинду.]]></text>
+</doc>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%90%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D1%8B_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Артефакты (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Артефакты]]></item>
+    <item type="str"><![CDATA[Артефакты (Oblivion)]]></item>
+    <item type="str"><![CDATA[Даэдрические артефакты]]></item>
+    <item type="str"><![CDATA[Даэдрические артефакты (Oblivion)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Oblivion)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Даэдрические артефакты
+Артефакты, выдаваемые в награду от Принцев Даэдра за выполненную работу:
+Другие даэдрические артефакты (в данном случае — которые не связаны с квестами статуй Князей):
+Оружие
+Доспехи
+Одежда, кольца и т. д.
+Другое
+Айлейдские артефакты]]></text>
+</doc>

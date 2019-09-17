@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/An_Elder_Scrolls_Legend:_Battlespire]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[An Elder Scrolls Legend: Battlespire]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[The Elder Scrolls]]></item>
+    <item type="str"><![CDATA[Battlespire]]></item>
+    <item type="str"><![CDATA[Спин-оффы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[An Elder Scrolls Legend: Battlespire (дословно: Легенда из Древних Свитков: Бэтлспайр) — экшн от первого лица, действия которого происходят во вселенной The Elder Scrolls. Был выпущен в 1997 году для PC.
+Сюжет
+В Battlespire игрок может почувствовать себя в роли ученика, который в день своего заключительного экзамена в учебном здании боевых магов, названном Бэтлспайр (ориг. Battlespire, дословно: Пик сражений), обнаруживает, что армия даэдра во главе с Мерунесом Дагоном, вооружённая вселяющими страх Даэдрическими Полумесяцами, вторглась и уничтожила почти всех. Партнёр главного героя становится пленником Мерунеса Дагона. В течение семи уровней необходимо добраться до вершины Бэтлспайра, пройти реальности Обливиона и победить Дагона.
+Сетевая игра
+Bethesda ввела возможность сетевой игры, которая включает в себя кооперативный режим. Сетевая игра была осуществлена через сеть Mplayer, которая сейчас называется Gamespy. Хотя Mplayer / Gamespy больше не поддерживается, всё ещё остаётся возможность запустить сетевую игру Battlespire с помощью клиента Kali для сетевой игры. Клиент сохраняет все возможности игры.
+Battlespire использует графический движок XnGine в режиме 16bit VESA 2.0, работая в DOS, были планы и даже реклама 3DFX версии игры, но они были прекращены перед выпуском Battlespire, который работал только в программном режиме.]]></text>
+</doc>

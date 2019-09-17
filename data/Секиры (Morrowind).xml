@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%BA%D0%B8%D1%80%D1%8B_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Секиры (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Навыки (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Секиры (ориг. Axe) — один из навыков группы воина в игре The Elder Scrolls III: Morrowind. Навык зависит от параметра «Сила». Навык обращения с секирами помогает персонажу эффективно использовать тяжёлое рубящее оружие, подобное топорам или секирам.
+Прокачка навыка
+Успешная атака: +1.20
+Бонусы при создании
+Расы
++10 Норды;
++5 Орки;
++5 Редгарды.
+Классы
+Боевой маг;
+Варвар;
+Жулик;
+Рыцарь.
+Воин;
+Воин Слова.
+Фракции
+Гильдия Бойцов
+Учителя навыка
+Учебники
+«36 Уроков Вивека, Проповедь 5»;
+«36 Уроков Вивека, Проповедь 16»;
+«Семечко»;
+«Третья Дверь»;
+«Человек с топором».
+Список доступных стандартных секир
+См. статью «Оружие».]]></text>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B1%D0%BE%D0%BB%D1%82_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Пробковый болт (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Стрельба]]></item>
+    <item type="str"><![CDATA[Стрельба (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Болты]]></item>
+    <item type="str"><![CDATA[Болты (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Пробковый болт (ориг. Corkbulb Bolt) — болт, боеприпас в игре The Elder Scrolls III: Morrowind.
+Описание
+Пробковый болт — снаряд, изготовленный из пробкового дерева.
+Характеристики
+Объём зачарования: 0,6
+Местонахождение
+Садрит Мора, Тель Нага.
+Маар Ган, Аванпост.
+Дагон Фел, Дозорная башня.
+Альд Редайния.]]></text>
+</doc>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%87_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Железный длинный меч (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+    <item type="str"><![CDATA[Мечи (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Железный длинный меч (ориг. Iron Longsword) — меч, длинный клинок в игре The Elder Scrolls III: Morrowind.
+Описание
+Железный длинный меч — дешёвое одноручное оружие паршивой ковки, созданное из железа.
+Характеристики
+Объём зачарования: 6
+Длина: 1,00
+Скорость атаки: 1,35
+Местонахождение
+Вивек, клуб Никаких Имён.
+Вивек, Поселение Хлаалу, Ростовщик.
+Родовая гробница Верельнимов.
+Тель Вос, Центральная башня.
+Пелагиад, Сторожевая башня.
+Яичная шахта Пануд.
+Молаг Мар, Крепость Стражей.]]></text>
+</doc>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%96%D0%B0%D0%B1%D0%B8%D0%B9_%D0%AF%D0%B7%D1%8B%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Жабий Язык]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Гильдия воров]]></item>
+    <item type="str"><![CDATA[Гильдия воров (Morrowind)]]></item>
+    <item type="str"><![CDATA[Торговцы]]></item>
+    <item type="str"><![CDATA[Торговцы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Учителя навыков]]></item>
+    <item type="str"><![CDATA[Учителя навыков (Morrowind)]]></item>
+    <item type="str"><![CDATA[Альд'рун]]></item>
+    <item type="str"><![CDATA[Персонажи (Альд'рун)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Аргониане (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Аргониане]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Жабий Язык (ориг. Tongue-Toad) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Жабий Язык — учёный-аргонианин, член Гильдии воров в ранге «Мокроух», решающий за деньги проблемы с законом. Покупает книги, сумма наличных денег: 75 септимов.
+Также является учителем следующих навыков:
+«Алхимия» (до 42).
+«Атлетика» (до уровня 52).
+«Бездоспешный бой» (до 42).
+Если герой будет собирать в Альд'руне деньги для бедных, Жабий Язык пожертвует от 1 до 5 золотых (в зависимости от расположения).
+Жабий Язык попал в чёрный список синдиката Камонна Тонг, который решил устранить его руками Гильдии бойцов. Впрочем, протагонист может дать аргонианину возможность сбежать, соврав квестодателю.
+Инвентарь
+Он носит вычурную рубашку, простые штаны, дорогие кольцо и пояс. При себе имеет путеводитель по Альд'руну и немного золота. Вооружён стальным мечом уклонения.
+Характеристики
+Кроме расовых аргонианских, другими талантами не обладает.
+Квесты
+«Заставить замолчать Жабий Язык» — убить аргонианина или позволить ему скрыться.
+«Подаяние Форту Пёстрой Бабочки» — собрать в Альд'руне пожертвования для бедных.]]></text>
+</doc>

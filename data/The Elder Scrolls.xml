@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/The_Elder_Scrolls]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[The Elder Scrolls]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[The Elder Scrolls]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[The Elder Scrolls (сокр. — TES; в переводе — «Древние свитки») — серия компьютерных ролевых игр, созданная компанией Bethesda Softworks.
+История
+Работа над серией началась в 1992, когда сотрудники компании Bethesda Softworks, ранее специализировавшейся в основном на спортивных играх, приняли решение изменить жанр своей будущей игры Arena с файтинга на ролевую игру. Находясь под влиянием игр из серий Ultima и Dungeons & Dragons, компания разработала масштабную, открытую, но в конечном счёте вторичную ролевую игру с видом от первого лица The Elder Scrolls: Arena, которая вышла в свет в 1994 для DOS. Так началась история серии, в основу которой был положен принцип «будь, кем хочешь, и делай, что хочешь».
+Следующая игра из серии Elder Scrolls — The Elder Scrolls II: Daggerfall — была выпущена в 1996. На фоне Arena, имевшей весьма умеренный успех, Daggerfall был ещё более амбициозным проектом. В Daggerfall была предпринята попытка создать живой мир размером с две Великобритании, отрендеренный в полном 3D, и построить ролевую систему, основанную на развитии навыков, а не накоплении очков опыта. Однако амбициозность Daggerfall сослужила ему плохую службу: Daggerfall, поспешно выпущенный в свет, был переполнен ошибками (багами) и имел чрезмерно высокие системные требования, чем заслужил неофициальное название buggerfall (от bug — ошибка и fall — падать). По словам одного из комментаторов, несмотря на то, что Daggerfall имел большой коммерческий успех, «игра по-прежнему основана на плохом коде».
+После выхода Daggerfall Bethesda до 1998 не занималась разработкой продолжения, вместо этого выпустив игры An Elder Scrolls Legend: Battlespire в 1997 и The Elder Scrolls Adventures: Redguard в 1998. Обе игры имели несравнимо меньший масштаб: Battlespire представляла собой лёгкую прогулку по подземельям, а Redguard была игрой в жанре action-adventure с видом от третьего лица и линейным сюжетом. Игры продавались плохо, и Bethesda оказалась на грани банкротства. Только благодаря инвестициям, последовавшим после поглощения студии компанией Zenimax в 1999, Bethesda вернулась к жизни.
+Для работы над The Elder Scrolls III: Morrowind Bethesda утроила количество сотрудников и снова сделала ставку на высокие системные требования. Morrowind стал, с одной стороны, возвращением к традиционному нелинейному и обширному игровому миру и в то же время шагом в сторону вручную проработанных ландшафтов и артефактов, кроме того, игровой мир был всё же меньше, чем в играх-предшественниках. Morrowind был выпущен для Xbox и PC в 2002 и имел успех как среди критиков, так и среди играющей публики: к середине 2005 было продано 4 млн экземпляров игры. Вскоре, в конце 2002 — начале 2003, были выпущены два дополнения для Morrowind: The Elder Scrolls III: Tribunal и The Elder Scrolls III: Bloodmoon.
+Сразу после публикации Morrowind в том же 2002 началась работа над The Elder Scrolls IV: Oblivion. Сильными сторонами Oblivion должны были стать туго закрученный сюжет; улучшенный ИИ, основанный на собственной разработке Bethesda — Radiant AI; улучшенная физика, основанная на движке Havok, использовавшемся в Half-Life 2; и впечатляющая графика. Игра была выпущена для PC и Xbox 360 в начале 2006, для PS3 — в начале 2007. В конце 2006 — начале 2007 Bethesda выпустила два дополнения для Oblivion: The Elder Scrolls IV: Knights of the Nine и The Elder Scrolls IV: Shivering Isles.
+В конце октября 2008 года, вскоре после выхода Fallout 3 Пол Отон (ориг. Paul Oughton), отвечающий за издательскую деятельность компании Bethesda, в интервью Gamesindustry.biz указал, что ожидать следующую игру серии стоит не раньше 2010 года. Zenimax, владелец Bethesda Softworks, в 2006 году зарегистрировала торговую марку «Skyrim», но тогда не было известно, связано ли это с пятой частью серии.
+27 апреля 2009 года Bethesda Softworks анонсировала выход двух романов по вселенной The Elder Scrolls авторства Грега Киза. Первый роман The Infernal City («Адский город») вышел 24 ноября 2009 года.
+11 декабря 2010 на Spike TV Video Games Awards была анонсирована The Elder Scrolls V и был показан первый тизер-трейлер. Игра получила подзаголовок «Skyrim» и была озвучена дата выхода — 11 ноября 2011 года. Ранее были предположения, что TES V: Skyrim будет основан на сильно модифицированном движке Gamebryo, на котором работала предыдущая часть игры, TES IV: Oblivion. Bethesda опровергла эти догадки, сказав, что игра основывается на новом движке, разработанном специально для неё.
+Игры серии
+The Elder Scrolls: Arena (1994);
+The Elder Scrolls II: Daggerfall (1996);
+An Elder Scrolls Legend: Battlespire (1997);
+The Elder Scrolls Adventures: Redguard (1998);
+The Elder Scrolls III: Morrowind (2002):
+Дополнения для Morrowind: Tribunal (2002) и Bloodmoon (2003).
+The Elder Scrolls IV: Oblivion (2006):
+Дополнения для Oblivion: Knights of the Nine (2006) и Shivering Isles (2007).
+Версия для PSP и PS3 — The Elder Scrolls Travels: Oblivion (2007) (заморожен).
+The Elder Scrolls V: Skyrim (2011):
+Дополнения для Skyrim: Dawnguard (2012), Hearthfire (2012) и Dragonborn (2012).
+The Elder Scrolls Online (2014):
+Дополнения Imperial City (2015), Orsinium (2015), Thieves Guild (2016), Dark Brotherhood (2016), Shadows of the Hist (2016), Chapter I: Morrowind (2017), Horns of the Reach (2017), Clockwork City (2017), Summerset (2018), Dragon Bones (2018), Wolfhunter (2018), Murkmire (2018).
+The Elder Scrolls: Legends (2017) (вышла в том числе на смартфонах):
+Дополнения The Fall of the Dark Brotherhood (2017), Heroes of Skyrim (2017).
+The Elder Scrolls VI (TBA)
+Игры The Elder Scrolls на мобильных телефонах:
+The Elder Scrolls Travels: Dawnstar (2003);
+The Elder Scrolls Travels: Stormhold (2004);
+The Elder Scrolls Travels: Shadowkey (2004);
+The Elder Scrolls IV: Oblivion Mobile (2006);
+The Elder Scrolls III: Morrowind Mobile (2011?) — любительская игра, не имеющая отношения к официальной серии.
+The Elder Scrolls: Blades (2018)
+Сопутствующие программы
+The Elder Scrolls Construction Set — редакторы, разработанные для The Elder Scrolls III: Morrowind и The Elder Scrolls IV: Oblivion, позволяющие создавать плагины, так или иначе изменяющие исходную игру;
+Расширитель скриптовых функций Oblivion — программа, наличие которой необходимо для работы некоторых плагинов;
+Creation Kit — редактор для The Elder Scrolls V: Skyrim, позволяющий работать с ресурсами игры и создавать плагины.
+Локализации
+В России были официально выпущены только третья, четвёртая и пятая части серии с дополнениями, издатель — компания 1С. Для первой и второй части существуют фанатские, но очень низкого качества переводы. Есть несколько фанатских проектов по созданию более качественного перевода, чем официальный.]]></text>
+</doc>

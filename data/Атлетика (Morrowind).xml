@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Атлетика (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Навыки (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Навыки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Атлетика (ориг. Athletics) — один из навыков группы воина в The Elder Scrolls III: Morrowind. Навык зависит от атрибута «Скорость».
+«Навык атлетики отображает подготовленность и тренированность персонажа для бега и плавания. Хорошие атлеты передвигаются на короткие и длинные дистанции по суше достаточно быстро, а также хорошо плавают в воде».
+Развитие навыка
+1 секунда плаванья: +0.03
+1 секунда бега: +0.02
+Бонусы при создании персонажа
+Расы
++15 Аргониане
++5 Данмеры
++5 Каджиты
++5 Редгарды
+Классы
+Акробат
+Лучник
+Варвар
+Монах
+Разведчик
+Воин
+Ассасин
+Жулик
+Вор
+Фракции
+Клан Аунда
+Клан Берне
+Клан Куарра
+Дом Редоран
+Имперский легион
+Две Лампы
+Учителя
+Учебники]]></text>
+</doc>

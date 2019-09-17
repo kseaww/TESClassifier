@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D0%B8%D0%BB%D0%BC%D0%BE%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лилмот]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Многозначные термины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лилмот (Lore) — статья о городе во вселенной The Elder Scrolls;
+Лилмот (Murkmire) — статья о городе, представленном в The Elder Scrolls Online: Murkmire, в период Междуцарствия;
+Лилмот (Arena) — статья о городе, представленном в The Elder Scrolls: Arena, в период Имперского Симулякра.]]></text>
+</doc>

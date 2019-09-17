@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B0%D0%BD_%D0%A5%D1%83%D0%BB%D0%B0%D1%80%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Клан Хулари]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Кланы вампиров]]></item>
+    <item type="str"><![CDATA[Кланы вампиров залива Илиак]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Клан Хулари — один из вампирских родов залива Илиак. Одарены умением парализовать свою жертву. Этот род доминировал в районе Хаммерфелла, а именно в регионах Сантаки, Тотамбу, Козансет, Эфесус и горах Драконьего Хвоста. Враждуют с родом Антотис.]]></text>
+</doc>

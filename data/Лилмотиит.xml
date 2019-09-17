@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9B%D0%B8%D0%BB%D0%BC%D0%BE%D1%82%D0%B8%D0%B8%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лилмотиит]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Расы]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лилмотииты (ориг. Lilmothiit) — разумное лисоподобное племя, обитавшее во Внутренних Топях провинции Чернотопье.
+О них практически ничего не известно, но существует теория, что они могут иметь родственную связь с каджитами Эльсвейра.
+Лилмотииты жили кочевыми племенными группами и оставили несколько следов своего существования. Они основали поселение Блэкроуз, руины которого впоследствии были превращены в тюрьмы акавирских потентатов, во Второй эре.
+В настоящее время считается, что лилмотииты вымерли.
+Упоминание
+PGE-3: Чернотопье,
+Книга «Карманный путеводитель по Империи, 1-е изд.»]]></text>
+</doc>

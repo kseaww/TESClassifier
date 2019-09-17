@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A5%D0%B8%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BF%D1%8C%D1%91_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хитиновое копьё (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Древковое оружие]]></item>
+    <item type="str"><![CDATA[Древковое оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Копья]]></item>
+    <item type="str"><![CDATA[Копья (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Хитиновое копьё (ориг. Chitin Spear) — копьё, древковое оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Хитиновое копьё — колющее древковое оружие, созданное из хитина.
+Характеристики
+Объём зачарования: 2,5
+Длина: 1,80
+Скорость атаки: 1,00
+Местонахождение
+Лагерь Ахеммуза, Юрта Дутадалка и Юрта Адаммуса.
+Миссамси.
+Лагерь Уршилаку.
+Родовая гробница Аренимов.
+Балмора, Гильдия бойцов.
+Форт Пёстрой Бабочки.
+Плантация Дрена, Башня.
+Лагерь Эрабенимсунов, Юрта Айнаба, Юрта Ранаби и Юрта Салаттаната.
+Лагерь Зайнаб, Юрта Кумму.
+Астральные захоронения Уршилаку, Астральное захоронение и Захоронение Какуна.]]></text>
+</doc>

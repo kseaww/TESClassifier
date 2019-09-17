@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B0%D0%BA%D0%B8%D0%B4%D0%B7%D0%B0%D1%81%D0%B8_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Стальной вакидзаси (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Кинжалы]]></item>
+    <item type="str"><![CDATA[Кинжалы (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Стальной вакидзаси (ориг. Steel Wakizashi) — кинжал, короткий клинок в игре The Elder Scrolls III: Morrowind.
+Описание
+Стальной вакидзаси — короткое одноручное оружие, созданное из стали.
+Характеристики
+Объём зачарования: 4,5
+Длина: 1,00
+Скорость атаки: 2,25
+Местонахождение
+Это оружие можно найти в следующих локациях:
+Суран, Поместье Оран;
+Молаг Мар, Редоранская крепость.
+В качестве оружия его используют:
+Аддхиранирр;
+Тонас Телвани;
+Цразами;
+Безымянные вампиры-каджиты из клана Берне (2 шт.).
+Можно найти в продаже у большинства торговцев оружием по всему Морровинду. Также часто встречается в качестве случайного содержимого различных сундуков и ящиков.]]></text>
+</doc>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%AD%D0%B1%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%82%D0%BE%D0%BF%D0%BE%D1%80_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эбонитовый топор (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Топоры]]></item>
+    <item type="str"><![CDATA[Топоры (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эбонитовый боевой топор (ориг. Ebony War Axe) — топор, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Эбонитовый боевой топор — одноручное оружие, созданное из редкой породы вулканического стекла, эбонита, и украшенное позолотой в нескольких местах.
+Характеристики
+Скорость атаки: 1,25
+Длина: 1,0
+Объём зачарования: 10
+Местонахождение
+Морнхолд, Годсрич — Труд.Tr
+Старый Морнхолд: Зал Терана, восточное здание — Ярнар.Tr Один из дрессировщиков армии гоблинов.
+Фаленсарано, верхний уровень — в сундуке Альфхедила Эльфобоя рядом с кроватью.
+Вивек, Поселение Хлаалу, Оружейник — на верхней полке справа (в продаже).
+В качестве случайного содержимого некоторых сундуков. Например, в гильдии Мораг Тонг Балморы или в Хранилищах поселений Великих Домов в Вивеке.
+Возможное оружие дремор.]]></text>
+</doc>

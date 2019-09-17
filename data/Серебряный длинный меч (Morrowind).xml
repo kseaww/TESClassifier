@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%87_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Серебряный длинный меч (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+    <item type="str"><![CDATA[Мечи (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Серебряный длинный меч (ориг. Silver Longsword) — меч, длинный клинок в игре The Elder Scrolls III: Morrowind.
+Описание
+Серебряный длинный меч — одноручное оружие со стальным сердечником и серебряным покрытием.
+Характеристики
+Объём зачарования: 4,8
+Длина: 1,00
+Скорость атаки: 1,35
+Местонахождение
+Янсиррамус.
+Вивек, Поселение Хлаалу, Оружейник.
+Вивек, Тренировочные помещения арены.
+Тель Вос, Центральная башня.
+Молаг Мар, Саэтринг Норд: Кузнец.
+Маар Ган, Аванпост.
+Гнисис.
+Кальдера, Верик Гемайн: Торговец.
+Балмора, Порез Бритвы.
+Балмора, Драласа Нитрион: Ростовщица.
+Альд'рун, Тувесо Белет: Кузнец.]]></text>
+</doc>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B2%D1%80%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F_(Oblivion)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Повреждение здоровья (Oblivion)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Магические эффекты]]></item>
+    <item type="str"><![CDATA[Магия]]></item>
+    <item type="str"><![CDATA[Наступательные магические эффекты]]></item>
+    <item type="str"><![CDATA[Наступательные магические эффекты (Oblivion)]]></item>
+    <item type="str"><![CDATA[Магические эффекты (Oblivion)]]></item>
+    <item type="str"><![CDATA[Магия (Oblivion)]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Повреждение здоровья (ориг. Damage Health) — магический эффект в игре The Elder Scrolls IV: Oblivion.
+Описание
+В случае успеха повреждает некоторое значение здоровья у жертвы в течение некоторого времени. Данный эффект можно вызывать произношением заклинаний, чтением свитков, при помощи некоторого оружия, стрел, зелий и даже просто поедая некоторые ингредиенты.
+Источники эффекта
+Заклинания
+Свитки
+Зелья
+«Яд недомогания»;
+«Слабый яд недомогания»;
+«Сильный яд недомогания».
+Стрелы
+Стрела увечий.
+Оружие
+Посох нездоровья;
+Великий посох нездоровья;
+Малый посох нездоровья.
+Ингредиенты]]></text>
+</doc>

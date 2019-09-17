@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%80%D0%B0%D1%81%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%B8_%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Серебряная кираса стражи герцога]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Доспехи]]></item>
+    <item type="str"><![CDATA[Доспехи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Тяжелая броня]]></item>
+    <item type="str"><![CDATA[Тяжелая броня (Morrowind)]]></item>
+    <item type="str"><![CDATA[Кирасы]]></item>
+    <item type="str"><![CDATA[Кирасы (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Серебряная кираса стражи герцога (ориг. Duke's Guard Silver Cuirass) — кираса, тяжёлые доспехи в игре The Elder Scrolls III: Morrowind.
+Описание
+Серебряная кираса стражи герцога — изящная кираса, выкованная из стали и покрытая серебром. Помимо слоя серебра на доспех нанесена сиреневая эмаль и различные узоры, основным из которых является геральдический дракон Империи.
+Гаротмук гро-Музгуб, если заговорить с ним на тему тяжёлых доспехов, может сказать про доспехи из серебра следующее: «Высококачественная сталь покрывается серебром из-за тайных свойств этого драгоценного металла, точнее, из-за того, что он влияет на плоть магических и сверхъестественных существ».
+Местонахождение
+В данный доспех экипированы три стража герцога, Матус Мидо, Аугуриус Сиалиус и Варус Ватиниус в Эбенгардском замке.
+Один экземпляр продаёт кальдерский оружейник Ходлисмод.]]></text>
+</doc>

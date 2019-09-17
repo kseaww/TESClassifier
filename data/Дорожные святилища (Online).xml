@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5_%D1%81%D0%B2%D1%8F%D1%82%D0%B8%D0%BB%D0%B8%D1%89%D0%B0_(Online)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дорожные святилища (Online)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Online]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Online)]]></item>
+    <item type="str"><![CDATA[Дорожные святилища]]></item>
+    <item type="str"><![CDATA[Дорожные святилища (Online)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дорожные святилища (ориг. Wayshrines) — тип локаций в игре The Elder Scrolls Online. Здесь представлен полный список дорожные святилищ в игре.]]></text>
+</doc>

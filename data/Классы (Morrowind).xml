@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B_(Morrowind)#.D0.A0.D1.8B.D1.86.D0.B0.D1.80.D1.8C]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Классы (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Классы]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Классы (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Описание
+Каждый персонаж The Elder Scrolls III: Morrowind имеет класс, отражающий качества характера. Для населения предусмотрены как готовые специальные классы, так и классы, предлагаемые герою из приведённой ниже таблицы. Также игрок может составить для своего героя собственный класс.]]></text>
+</doc>

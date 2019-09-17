@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BE%D1%83%D0%BB%D1%80%D0%B5%D1%81%D1%82_(Arena)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Соулрест (Arena)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Необходим план города!]]></item>
+    <item type="str"><![CDATA[Arena]]></item>
+    <item type="str"><![CDATA[Локации]]></item>
+    <item type="str"><![CDATA[Локации (Arena)]]></item>
+    <item type="str"><![CDATA[Города]]></item>
+    <item type="str"><![CDATA[Города (Arena)]]></item>
+    <item type="str"><![CDATA[Соулрест]]></item>
+    <item type="str"><![CDATA[Lore]]></item>
+    <item type="str"><![CDATA[География]]></item>
+    <item type="str"><![CDATA[Тамриэль]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Соулрест (ориг. Soulrest) — город в игре The Elder Scrolls: Arena.
+Описание и история
+Соулрест — крупный портовый город на юго-западе Чернотопья на берегу Моря Топал. Первое упоминание города датируется концом Первой эры, когда по приказу императрицы Хестры в районе Соулреста имперский флот проводил военную кампанию против морских пиратов. В 3Э 427 на фоне волнений в Империи вспыхивает восстание рабочих шахт и плантаций, которое было вскоре подавлено.]]></text>
+</doc>

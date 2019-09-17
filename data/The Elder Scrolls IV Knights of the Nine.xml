@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/The_Elder_Scrolls_IV:_Knights_of_the_Nine]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[The Elder Scrolls IV: Knights of the Nine]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[The Elder Scrolls]]></item>
+    <item type="str"><![CDATA[Knights of the Nine]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Дополнения]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[The Elder Scrolls IV: Knights of the Nine (дословно: Древние свитки IV: Рыцари Девяти) — первое официальное крупное дополнение к игре The Elder Scrolls IV: Oblivion. Выпускалось на отдельных дисках вместе с семью мелкими официальными плагинами, в такой комплектации было локализовано в России фирмой 1С. Позже вошло (с обновлённым переводом и русской озвучкой) в «Золотое издание» Oblivion.
+Сюжет
+По Сиродилу проносятся слухи о нападении на часовню Дибеллы в Анвиле. Отправившийся туда протагонист встречает у церкви Пророка, который вещает о возрождении ужасного айлейдского короля Умарила Неоперённого, решившего мстить богам людей, захвативших его страну. Победить его может только святой рыцарь, собравший все реликвии (дары Девяти) Святого Крестоносца.
+Особенности
+Восстановите легендарную фракцию, обретите могучие доспехи, заклинания и оружие, благословлённые Девятью, прочтите новые книги, посетите новые подземелья, выполните новые задания, наберите новых рекрутов и обзаведитесь новыми друзьями. Сразитесь с могучими аврорианцами и одолейте Умарила.
+ Важно: Для корректной работы аддона требуется патч v1.1.511.]]></text>
+</doc>

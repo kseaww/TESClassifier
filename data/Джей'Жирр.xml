@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B6%D0%B5%D0%B9%27%D0%96%D0%B8%D1%80%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Джей'Жирр]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Эбенгард]]></item>
+    <item type="str"><![CDATA[Учителя навыков]]></item>
+    <item type="str"><![CDATA[Учителя навыков (Morrowind)]]></item>
+    <item type="str"><![CDATA[Персонажи]]></item>
+    <item type="str"><![CDATA[Персонажи (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Мужчины (Morrowind)]]></item>
+    <item type="str"><![CDATA[Каджиты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Каджиты]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Джей'Жирр (ориг. J'Zhirr) — персонаж в игре The Elder Scrolls III: Morrowind.
+Биография
+Джей'Жирр — каджит-шпион, проживающий в Эбенгарде. Находится в Отделении Восточной имперской компании. Является учителем навыков «Акробатика» (обучает до уровня 62), «Лёгкие доспехи» (до уровня 52) и навыка «Скрытность» (до уровня 52). В ходе выполнения квестов «Пакет для Дредила» и «Прайс-лист» можно выяснить, что Джей'Жирр — это крупный коррупционер, который, находясь в доле у герцога и искусственно завышая цены Компании, отмывает деньги через его подручного Ллаалама Дредила, юридически оформленного в качестве подставной фирмы «ЛД».
+Инвентарь
+Джей'Жирр носит простую рубашку, пояс и штаны. Имеет случайное количество золотых. Оружия при себе не имеет.]]></text>
+</doc>

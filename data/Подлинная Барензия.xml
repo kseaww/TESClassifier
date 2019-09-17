@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%91%D0%B0%D1%80%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Подлинная Барензия]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Книги]]></item>
+    <item type="str"><![CDATA[Книги (Skyrim)]]></item>
+    <item type="str"><![CDATA[Книги (Oblivion)]]></item>
+    <item type="str"><![CDATA[Книги (Morrowind)]]></item>
+    <item type="str"><![CDATA[Книги (Daggerfall)]]></item>
+    <item type="str"><![CDATA[Skyrim]]></item>
+    <item type="str"><![CDATA[Oblivion]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Daggerfall]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Предметы (Skyrim)]]></item>
+    <item type="str"><![CDATA[Предметы (Oblivion)]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы (Daggerfall)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Подлинная Барензия (ориг. The Real Barenziah) — сборник книг в мире The Elder Scrolls за авторством Плитиниуса Меро, повествующий о жизни легендарной личности — королевы-матери Морровинда Барензии.
+В отличие от официальной биографии Барензии, написанной сухим канцелярским языком, данное повествование рассказывает о ней прежде всего как о неординарной личности, часто показывая её с неожиданной стороны.
+Книги
+«Подлинная Барензия, т. 1»;
+«Подлинная Барензия, т. 2»;
+«Подлинная Барензия, т. 3»;
+«Подлинная Барензия, т. 4»;
+«Подлинная Барензия, т. 5».]]></text>
+</doc>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%81%D0%BE%D1%85_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Серебряный посох (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Дробящее оружие]]></item>
+    <item type="str"><![CDATA[Дробящее оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Посохи]]></item>
+    <item type="str"><![CDATA[Посохи (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Серебряный посох (ориг. Silver Staff) — посох, дробящее оружие в игре The Elder Scrolls III: Morrowind.
+Описание
+Серебряный посох — дробящее двуручное оружие со стальным сердечником и серебряным покрытием.
+Характеристики
+Объём зачарования: 5,6
+Длина: 1,50
+Скорость атаки: 1,75
+Местонахождение
+Балмора, Гильдия бойцов.
+Форт Пёстрой Бабочки, Внутреннее помещение.
+Друскашти, Верхний уровень.
+Эбонхарт, Гарнизон Хищной Бабочки.
+Призрачные Врата, Башня Заката.
+Илуниби, Хрип Души.
+Молаг Мар, Редоранская крепость.
+Сейда Нин, Трактир Аррилла.
+Астральные захоронения Уршилаку, Кармическое Захоронение.
+Вивек, Квартал Чужеземцев, Алусарион: кузнец.
+Вивек, Скрытая Область Арены.
+Вивек, Квартал Чужеземцев, Гильдия Бойцов.
+Вивек, Поселение Хлаалу, Оружейник.
+Вивек, Поселение Редоран, Своды Предков.
+Вивек, Квартал Чужеземцев, Симин Фралини: Книготорговец.
+Лагерь Зайнаб, Юрта Абабаэля Тимсар-Дадисуна.]]></text>
+</doc>

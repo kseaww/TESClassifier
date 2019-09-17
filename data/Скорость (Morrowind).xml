@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Скорость (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Атрибуты]]></item>
+    <item type="str"><![CDATA[Атрибуты (Morrowind)]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Скорость (ориг. Speed) — один из атрибутов в игре The Elder Scrolls III: Morrowind. От него зависят такие навыки, как атлетика, бездоспешный бой, рукопашный бой и короткие клинки. Влияет на скорость персонажа во время ходьбы, бега, плаванья и, в меньшей мере, левитации, а также увеличивает дальность прыжка по горизонтали.
+Бонусы при создании персонажа
+Расы
+Классы
++10 Ассасин
++10 Варвар
++10 Вор
++10 Жулик
++10 Меч Ночи
++10 Разведчик
+Знак
++25 Созвездие Коня]]></text>
+</doc>

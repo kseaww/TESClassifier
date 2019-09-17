@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%82%D0%BE%D0%BF%D0%BE%D1%80_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Стальной топор (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Топоры]]></item>
+    <item type="str"><![CDATA[Топоры (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Стальной топор (ориг. Steel War Axe) — топор, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Стальной топор — одноручное оружие, созданное из стали.
+Характеристики
+Объём зачарования: 4,5
+Длина: 1,00
+Скорость атаки: 1,00
+Местонахождение
+Вивек, клуб Никаких Имён.
+Вивек, Поселение Хлаалу, Оружейник.
+Вивек, Тренировочные помещения арены.
+Родовая гробница Нерано.
+Родовая гробница Йенитов.]]></text>
+</doc>

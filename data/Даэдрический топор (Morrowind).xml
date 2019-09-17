@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://elderscrolls.fandom.com/ru/wiki/%D0%94%D0%B0%D1%8D%D0%B4%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%BE%D0%BF%D0%BE%D1%80_(Morrowind)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Даэдрический топор (Morrowind)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Одноручное оружие]]></item>
+    <item type="str"><![CDATA[Одноручное оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Предметы]]></item>
+    <item type="str"><![CDATA[Оружие]]></item>
+    <item type="str"><![CDATA[Morrowind]]></item>
+    <item type="str"><![CDATA[Предметы (Morrowind)]]></item>
+    <item type="str"><![CDATA[Оружие (Morrowind)]]></item>
+    <item type="str"><![CDATA[Топоры]]></item>
+    <item type="str"><![CDATA[Топоры (Morrowind)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Даэдрический боевой топор (ориг. Daedric War Axe) — топор, секира в игре The Elder Scrolls III: Morrowind.
+Описание
+Даэдрический боевой топор — дробящее одноручное оружие, созданное из редкой породы вулканического стекла, эбонита, и искусно очищенное с помощью магических веществ, добытых из младших существ Обливиона, а потому имеет зловещий чёрный вид с красными узорами.
+Характеристики
+Скорость атаки: 1,25
+Длина: 1,00
+Объём зачарования: 15
+Местонахождение
+Ибар-Дад, в склепе, рядом с останками мёртвого героя;
+Курган Эдард, возможное содержимое одного из сундуковBM;
+Дремора или владыка дремора (возможное оружие);
+Мента-На (возможный трофей);
+В качестве случайного содержимого в сундуках (в основном, расположенных в пещерах и даэдрических святилищах) начиная с 17 уровня.]]></text>
+</doc>
