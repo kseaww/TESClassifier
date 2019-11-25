@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>TES Classify | Library</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <header>
+            <h2><a href="/">TES Classify</a></h2>
+            <nav>
+                <a href="/classificator">Классификатор</a> | <a href="/library">Библиотека</a>
+            </nav>
+	</header>
+        <div>
+            <h1>Библиотека статей</h1>
+            <h3 th:text="'Раздел ' + ${classNameRus} + ':'"></h3>
+            <li th:each="article : ${articles}">
+                <a th:href="@{'/library/section/' + ${className} + '/file/' + ${article}}" th:text="${article}"></a>
+            </li>
+        </div>
+    </body>
+</html>
