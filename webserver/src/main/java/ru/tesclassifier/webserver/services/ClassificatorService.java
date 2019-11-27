@@ -15,6 +15,7 @@ import weka.core.SerializationHelper;
 public class ClassificatorService {
     private Classifier classifier;
     private HashMap<String, Integer> attributiveWords;
+    private ArrayList<String> wordFilter;
     
     public ClassificatorService() throws Exception {
         classifier = (Classifier) SerializationHelper.read(new FileInputStream("TEStext.model"));
@@ -26,6 +27,14 @@ public class ClassificatorService {
         while (line != null) {
             attributiveWords.put(line, wordCounter);
             ++wordCounter;
+            line = reader.readLine();
+        }
+        
+        wordFilter = new ArrayList();
+        reader = new BufferedReader(new InputStreamReader(new FileInputStream("TESwordfilter.txt"), "UTF8"));
+        line = reader.readLine();
+        while (line != null) {
+            wordFilter.add(line);
             line = reader.readLine();
         }
     }
@@ -78,7 +87,7 @@ public class ClassificatorService {
         ArrayList<String> words = new ArrayList<>();
         for (int i = 0; i < uncheckedWords.length; ++i) {
             String checkedWord = uncheckedWords[i].toLowerCase().replaceAll("[.,\\/#!\\?$%\\^&\\*;:{}=_`~()]", "");
-            if (!checkedWord.isEmpty()) {
+            if (!(checkedWord.isEmpty() || wordFilter.contains(checkedWord))) {
                 words.add(checkedWord);
             }
         }
