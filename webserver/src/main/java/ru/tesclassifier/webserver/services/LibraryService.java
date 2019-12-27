@@ -1,11 +1,8 @@
 package ru.tesclassifier.webserver.services;
 
-import ru.tesclassifier.webserver.models.TextClassName;
+import ru.tesclassifier.webserver.models.TextClassInfo;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -13,13 +10,16 @@ import org.w3c.dom.Document;
 
 public class LibraryService {
     
-    public TextClassName[] getTextClasses() {
-        TextClassName[] textClassNames = new TextClassName[TextClasses.values().length];
+    public TextClassInfo[] getTextClassInfos() {
+        TextClassInfo[] textClassNames = new TextClassInfo[TextClasses.values().length];
         
         for (int i = 0; i < textClassNames.length; ++i) {
-            textClassNames[i] = new TextClassName();
+            textClassNames[i] = new TextClassInfo();
             textClassNames[i].setClassName(TextClasses.values()[i].toString());
             textClassNames[i].setRusName(TextClasses.getTextClassRusName(TextClasses.values()[i]));
+            
+            File folder = new File("data" + "\\" + TextClasses.values()[i].toString());
+            textClassNames[i].setArticlesAmount(folder.listFiles().length);
         }
         
         return textClassNames;

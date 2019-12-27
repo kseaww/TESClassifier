@@ -1,8 +1,9 @@
 package ru.tesclassifier.webserver.models;
 
-public class TextClassName {
+public class TextClassInfo {
     private String className;
     private String rusName;
+    private int articlesAmount;
     
     public String getClassName() {
         return className;
@@ -18,5 +19,13 @@ public class TextClassName {
 
     public void setRusName(String rusName) {
         this.rusName = rusName;
+    }
+    
+    public int getArticlesAmount() {
+        return articlesAmount;
+    }
+
+    public void setArticlesAmount(int articlesAmount) {
+        this.articlesAmount = articlesAmount;
     }
 }

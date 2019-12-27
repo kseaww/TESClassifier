@@ -1,13 +1,16 @@
 package ru.tesclassifier.webserver.controllers;
 
+import java.util.ArrayList;
+
 import ru.tesclassifier.webserver.services.LibraryService;
-import ru.tesclassifier.webserver.models.TextClassName;
+import ru.tesclassifier.webserver.models.TextClassInfo;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import ru.tesclassifier.webserver.services.TextClasses;
 
 @Controller
 public class LibraryController {
@@ -20,22 +23,32 @@ public class LibraryController {
     
     @RequestMapping(value = "/library", method = RequestMethod.GET)
     public String libraryAll(Model model) {
-        model.addAttribute("textClassNames", libraryService.getTextClasses());
+        TextClassInfo[] textClassInfos =  libraryService.getTextClassInfos();
+        model.addAttribute("textClassInfos", textClassInfos);
+        
+        int allArticleAmount = 0;
+        for (int i = 0; i < textClassInfos.length; ++i) {
+            allArticleAmount += textClassInfos[i].getArticlesAmount();
+        }
+        model.addAttribute("allArticlesAmount", allArticleAmount);
+        
         return "LibraryMain";
     }
     
     @RequestMapping(value = "/library/section/{className}", method = RequestMethod.GET)
     public String librarySection(Model model, @PathVariable("className") String className) {
-        TextClassName[] textClassNames = libraryService.getTextClasses();
-        for (int i = 0; i < textClassNames.length; ++i) {
-            if (textClassNames[i].getClassName().equals(className)) {
-                model.addAttribute("classNameRus", textClassNames[i].getRusName());
+        for (int i = 0; i < TextClasses.values().length; ++i) {
+            TextClasses currentTextClasses = TextClasses.values()[i];
+            if (currentTextClasses.toString().equals(className)) {
+                model.addAttribute("classNameRus", TextClasses.getTextClassRusName(currentTextClasses));
                 break;
             }
         }
         
         model.addAttribute("className", className);
-        model.addAttribute("articles", libraryService.getArticles(className));
+        ArrayList<String> articles = libraryService.getArticles(className);
+        model.addAttribute("articles", articles);
+        model.addAttribute("articlesAmount", articles.size());
         return "LibrarySection";
     }
     
