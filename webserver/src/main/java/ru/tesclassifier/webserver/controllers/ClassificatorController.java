@@ -27,6 +27,10 @@ public class ClassificatorController {
     
     @RequestMapping(value = "/classificator", method = RequestMethod.POST)
     public String classifySubmit(@ModelAttribute ClassificatorForm classificatorForm, Model model) throws Exception {
+        if (classificatorForm.getText().trim().isEmpty()) {
+            return "ClassificatorInvalidInput";
+        }
+        
         TextClasses textClass = classificatorService.getClass(classificatorForm.getText());
         model.addAttribute("textClass", TextClasses.getTextClassRusName(textClass));
         return "ClassificatorResult";

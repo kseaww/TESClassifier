@@ -37,6 +37,18 @@ public class LibraryController {
     
     @RequestMapping(value = "/library/section/{className}", method = RequestMethod.GET)
     public String librarySection(Model model, @PathVariable("className") String className) {
+        boolean classExists = false;
+        for (int i = 0; i < TextClasses.values().length; ++i) {
+            TextClasses currentTextClasses = TextClasses.values()[i];
+            if (currentTextClasses.toString().equals(className)) {
+                classExists = true;
+            }
+        }
+        if (!classExists) {
+            return "NotFoundPage";
+        }
+        
+        
         for (int i = 0; i < TextClasses.values().length; ++i) {
             TextClasses currentTextClasses = TextClasses.values()[i];
             if (currentTextClasses.toString().equals(className)) {
@@ -60,7 +72,11 @@ public class LibraryController {
         
         String articleTitle = fileName.substring(0, fileName.length() - 4);
         model.addAttribute("articleTitle", articleTitle);
-        model.addAttribute("articleText", libraryService.getFileContent(className, fileName));
+        try {
+            model.addAttribute("articleText", libraryService.getFileContent(className, fileName));
+        } catch (Exception ex) {
+            return "NotFoundPage";
+        }
         return "LibrarySectionFile";
     }
 }
